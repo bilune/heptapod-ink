@@ -158,7 +158,7 @@ by hand into those folders. Use `ONLY=pt` or `ONLY=web` to fetch just one part.
 
 ## Credits and licenses
 
-- **Code:** MIT, see [LICENSE](LICENSE).
+- **Code:** public domain (The Unlicense), see [LICENSE](LICENSE). Use it however you like.
 - **Ink:** derived from the *Arrival* (2016) logograms by Martine Bertrand, released by
   Wolfram Research ([Arrival-Movie-Live-Coding](https://github.com/WolframResearch/Arrival-Movie-Live-Coding))
   under CC BY-NC 4.0. The marks were cut and modified. Anything derived from the ink,

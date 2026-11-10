@@ -17,6 +17,6 @@ Heptapod Ink is a non-commercial hobby project. It builds on the following work.
 Because the ink is CC BY-NC 4.0, the trained weights, ONNX exports and any
 logogram images they produce are shared under CC BY-NC 4.0 as well: free to use,
 modify and share for non-commercial purposes, with attribution to Martine
-Bertrand / Wolfram Research for the ink and to this project for the model.
+Bertrand / Wolfram Research for the ink. No attribution to this project is needed.
 
 The datasets are not redistributed here; `scripts/fetch_data.sh` downloads them.
