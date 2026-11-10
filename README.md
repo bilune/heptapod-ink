@@ -4,7 +4,7 @@ Two neural networks invent a writing system out of the ink from the film *Arriva
 One of them writes any short English sentence as a single ring logogram. The other one
 looks only at the picture and reads the sentence back.
 
-This is a personal hobby project by Gonzalo Bilune. It is a learned code with a nice
+This is a personal hobby project. It is a learned code with a nice
 look, not a real alien language, and not something a human can read. The interesting
 part is measuring what the networks came up with.
 
