@@ -10,6 +10,7 @@ short_description: Write English as Arrival-style logograms, read them back
 custom_headers:
   cross-origin-embedder-policy: credentialless
   cross-origin-opener-policy: same-origin
+  cross-origin-resource-policy: cross-origin
 ---
 
 # Heptapod Ink
