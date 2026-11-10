@@ -15,7 +15,7 @@ tags:
 
 Weights for [Heptapod Ink](https://github.com/bilune/heptapod-ink), a hobby experiment inspired by the film *Arrival*. Two networks learned a ring-shaped writing system made of real ink marks cut from the film's logograms. A writer turns an English sentence into one logogram, and a reader recovers the sentence from the image alone.
 
-Try it in the browser: [Heptapod Ink Space](https://huggingface.co/spaces/<user>/heptapod-ink).
+Try it in the browser: [Heptapod Ink Space](https://huggingface.co/spaces/bilune/heptapod-ink).
 
 ## Files
 

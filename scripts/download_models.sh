@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Download the published Heptapod Ink weights from the Hugging Face model repo.
 #
-#   HF_REPO=<user>/heptapod-ink bash scripts/download_models.sh
+#   HF_REPO=bilune/heptapod-ink bash scripts/download_models.sh
 #
 # Model repo layout (built by hf/publish.sh):
 #   model.pt                -> v4/runs/s2/model.pt   (PyTorch checkpoint, best v4 run)
@@ -12,7 +12,7 @@
 set -euo pipefail
 
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
-HF_REPO="${HF_REPO:-<user>/heptapod-ink}"
+HF_REPO="${HF_REPO:-bilune/heptapod-ink}"
 REV="${HF_REVISION:-main}"
 ONLY="${ONLY:-}"
 

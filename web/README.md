@@ -5,7 +5,7 @@ Everything runs client-side with onnxruntime-web (WASM) and the transformers.js 
     python web/serve.py        # http://127.0.0.1:8795, from any folder; PORT=9000 to change the port
 
 The server only adds COOP/COEP headers, which multi-threaded WASM needs. The models are not in git:
-`ONLY=web HF_REPO=<user>/heptapod-ink bash scripts/download_models.sh` puts them in `web/models/`.
+`ONLY=web HF_REPO=bilune/heptapod-ink bash scripts/download_models.sh` puts them in `web/models/`.
 The same page is published as a static Hugging Face Space (see `hf/`).
 
 Models (`web/models/`, ~168 MB total; exported by `v4/export_web.py`, `v4/export_search.py`, `v4/export_web2.py` from `v4/runs/s2/model.pt`):
