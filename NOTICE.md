@@ -1,6 +1,7 @@
 # Third-party material
 
-Heptapod Ink is a non-commercial hobby project. It builds on the following work.
+The code and docs are public domain (see LICENSE, The Unlicense). The ink and the
+weights trained on it are not: they follow the licenses below.
 
 | What | Source | License |
 | --- | --- | --- |

@@ -22,10 +22,3 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <https://unlicense.org>
-
----
-
-This dedication covers the source code and documentation. The ink marks in
-reference/ come from logograms released under CC BY-NC 4.0 by Wolfram Research,
-so the ink and anything trained on it (model weights, ONNX exports, rendered
-logograms) stay CC BY-NC 4.0. See NOTICE.md.
