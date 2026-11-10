@@ -13,7 +13,7 @@ part is measuring what the networks came up with.
 *Twenty rings written by the current model (with the reread step). "✓ reads back exactly" means
 the reader recovered the sentence from the image alone. The last one fails because the tokenizer has no "í".*
 
-Live demo (runs entirely in your browser): `https://huggingface.co/spaces/bilune/heptapod-ink`
+**[Live demo](https://huggingface.co/spaces/bilune/heptapod-ink)**, runs entirely in your browser. Weights: [bilune/heptapod-ink](https://huggingface.co/bilune/heptapod-ink).
 
 ## How it works
 
@@ -139,7 +139,7 @@ rebuild everything. Training needs a GPU; see [v4/README.md](v4/README.md).
 ### Weights
 
 The weights are not in git. They live on Hugging Face at
-`https://huggingface.co/bilune/heptapod-ink`. `scripts/download_models.sh` puts
+[huggingface.co/bilune/heptapod-ink](https://huggingface.co/bilune/heptapod-ink). `scripts/download_models.sh` puts
 `model.pt` in `v4/runs/s2/` and the ONNX files in `web/models/`, or you can download them
 by hand into those folders. Use `ONLY=pt` or `ONLY=web` to fetch just one part.
 
