@@ -1,0 +1,123 @@
+{
+ "n_items": 92,
+ "test1_symbolic": {
+  "target": {
+   "mean_boost": 19.659,
+   "sd": 5.5
+  },
+  "synonym": {
+   "mean_boost": 12.719,
+   "sd": 6.808
+  },
+  "contrast": {
+   "mean_boost": 8.046,
+   "sd": 6.44
+  },
+  "unrelated": {
+   "mean_boost": -24.467,
+   "sd": 5.106
+  },
+  "synonym_minus_contrast": {
+   "mean": 4.673,
+   "ci95": [
+    3.3,
+    6.086
+   ],
+   "share_items_positive": 0.707
+  }
+ },
+ "test1_visual": {
+  "target": {
+   "mean_boost": 19.436,
+   "sd": 5.7
+  },
+  "synonym": {
+   "mean_boost": 12.625,
+   "sd": 6.901
+  },
+  "contrast": {
+   "mean_boost": 7.85,
+   "sd": 6.424
+  },
+  "unrelated": {
+   "mean_boost": -24.027,
+   "sd": 5.408
+  },
+  "synonym_minus_contrast": {
+   "mean": 4.775,
+   "ci95": [
+    3.469,
+    6.121
+   ],
+   "share_items_positive": 0.728
+  }
+ },
+ "test2_word_hamming": {
+  "synonym": {
+   "mean": 5.47,
+   "sd": 3.11
+  },
+  "contrast": {
+   "mean": 6.45,
+   "sd": 2.14
+  },
+  "unrelated": {
+   "mean": 8.75,
+   "sd": 3.06
+  }
+ },
+ "test2_sentence_hamming": {
+  "paraphrase": {
+   "mean": 20.75,
+   "values": [
+    23,
+    26,
+    18,
+    20,
+    24,
+    15,
+    14,
+    26,
+    11,
+    22,
+    29,
+    21
+   ]
+  },
+  "role_reversal": {
+   "mean": 13.33,
+   "values": [
+    12,
+    9,
+    10,
+    19,
+    18,
+    11,
+    4,
+    22,
+    11,
+    10,
+    23,
+    11
+   ]
+  },
+  "random_other": {
+   "mean": 25.75,
+   "values": [
+    20,
+    27,
+    16,
+    29,
+    24,
+    34,
+    29,
+    28,
+    27,
+    26,
+    22,
+    27
+   ]
+  }
+ },
+ "paraphrase_reads_exact": 0.861
+}

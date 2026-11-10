@@ -1,0 +1,61 @@
+{
+ "split": "fresh_natural",
+ "n": 4,
+ "seed": 0,
+ "rounds": 1,
+ "sec_per_sentence": 0.366,
+ "mean_accepted_moves": 0.0,
+ "reverted": 0.0,
+ "plain": {
+  "exact": 0.25,
+  "exact_cased": 0.25,
+  "word_acc": 0.75,
+  "wer": 0.25
+ },
+ "search": {
+  "exact": 0.25,
+  "exact_cased": 0.25,
+  "word_acc": 0.75,
+  "wer": 0.25
+ },
+ "plain_pert": {
+  "exact": 0.25,
+  "exact_cased": 0.25,
+  "word_acc": 0.75,
+  "wer": 0.25
+ },
+ "search_pert": {
+  "exact": 0.25,
+  "exact_cased": 0.25,
+  "word_acc": 0.75,
+  "wer": 0.25
+ },
+ "shuffled": {
+  "exact": 0.0,
+  "exact_cased": 0.0,
+  "word_acc": 0.0,
+  "wer": 1.2917
+ },
+ "examples": [
+  [
+   "i was too tired to give you any action.",
+   "i was too tired to give you a no action.",
+   "i was too tired to give you a no action."
+  ],
+  [
+   "Good Morning* *",
+   "Good morning sugar",
+   "Good morning sugar"
+  ],
+  [
+   "Interesting good value wine list to.",
+   "Interesting good value wine market on.",
+   "Interesting good value wine market on."
+  ],
+  [
+   "I mean besides me of course.",
+   "I mean besides me of course.",
+   "I mean besides me of course."
+  ]
+ ]
+}

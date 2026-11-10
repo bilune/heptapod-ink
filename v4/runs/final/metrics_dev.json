@@ -1,0 +1,146 @@
+{
+ "dev": {
+  "visual": {
+   "exact": 0.6433,
+   "exact_cased": 0.6423,
+   "word_acc": 0.8834,
+   "wer": 0.1005,
+   "slot_acc": 0.9912
+  },
+  "symbolic": {
+   "exact": 0.6633,
+   "exact_cased": 0.662,
+   "word_acc": 0.8915,
+   "wer": 0.0926
+  },
+  "shuffled_image_control": {
+   "exact": 0.002,
+   "exact_cased": 0.002,
+   "word_acc": 0.0155,
+   "wer": 1.1503,
+   "slot_acc": 0.1596
+  },
+  "examples": [
+   [
+    "It wasn't easy for me to convince Tom to do that.",
+    "It wasn't easy for me to convince Tom to do that."
+   ],
+   [
+    "Tom put his hand over Mary's hand.",
+    "Tom put his hand over Mary's hand."
+   ],
+   [
+    "I was amused at the story.",
+    "I was amused at the story."
+   ],
+   [
+    "Ziri and Rima learned a very important lesson early in their marriage.",
+    "Ziri and Rima learned a very important lesson very early in the morning."
+   ],
+   [
+    "The day went by like a dream.",
+    "The day went by such a dream."
+   ],
+   [
+    "He didn't have dinner last night.",
+    "He didn't have dinner last night."
+   ],
+   [
+    "No burrs allowed.",
+    "No burri allowed."
+   ],
+   [
+    "That's really the only reason.",
+    "That's really the only reason."
+   ],
+   [
+    "She is in great anxiety about her son's examination.",
+    "She is in great anxiety about her son's examination."
+   ],
+   [
+    "Is \"that\" functioning as a pronoun or a determiner here?",
+    "Isn't it working as a pronoun or a strong-up?"
+   ],
+   [
+    "He was a military prodigy.",
+    "He was a military disgrace."
+   ],
+   [
+    "We need to rethink our strategy.",
+    "We need to rethink our strategy."
+   ]
+  ]
+ },
+ "dev_random": {
+  "visual": {
+   "exact": 0.104,
+   "exact_cased": 0.104,
+   "word_acc": 0.4452,
+   "wer": 0.539,
+   "slot_acc": 0.979
+  },
+  "symbolic": {
+   "exact": 0.122,
+   "exact_cased": 0.122,
+   "word_acc": 0.4694,
+   "wer": 0.5148
+  },
+  "shuffled_image_control": {
+   "exact": 0.0,
+   "exact_cased": 0.0,
+   "word_acc": 0.0017,
+   "wer": 1.1883,
+   "slot_acc": 0.0509
+  },
+  "examples": [
+   [
+    "local hounds here no accordingly",
+    "local hounds here no accordingly"
+   ],
+   [
+    "parade anticipated next over theremin loudly turkeys tom stand careers",
+    "marche date east over there loudly bells and mills stars stars"
+   ],
+   [
+    "marika my rest what advocate mary",
+    "maryland my stay what suggest mary"
+   ],
+   [
+    "cornered ria investment mistaken brad pisin billion suddenly rescue",
+    "cornered ribbing investment mistaken ziri pissed growing soon rescue"
+   ],
+   [
+    "overrun knighted envelope kumamoto cursory saw roman inhabitants looked arose",
+    "overrun captained hallway kubana wheeled seen skyline risen"
+   ],
+   [
+    "advancement montage where wish stepchildren burnt graft tough morons",
+    "advancement montage so wish stepfather burned etching taper mound"
+   ],
+   [
+    "easily chickpeas arrangements say creative nan skillful dance challenges mondays",
+    "canada chickpeas supporting say famous naive learnful inspiring mondays"
+   ],
+   [
+    "fruits tough engine for that",
+    "fruits hard engine for that"
+   ],
+   [
+    "dull buy car know passed judicial charon alice referred",
+    "dull buy car know passed judicial ardent alice cited"
+   ],
+   [
+    "supplies neighbors stomach endemic the elizabeth blockers kashgar",
+    "supplies neighbors stomach exploded the eagle be stalker box karma"
+   ],
+   [
+    "attract propose boring did kenny",
+    "invite propose stupid do baby"
+   ],
+   [
+    "farting captured blackmailing practically tom fur",
+    "faring found blackmailing real tom fur"
+   ]
+  ]
+ }
+}

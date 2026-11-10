@@ -1,0 +1,4078 @@
+{
+ "rows": [
+  {
+   "sentence": "Playing basketball doesn't make you grow taller.",
+   "source": "dev"
+  },
+  {
+   "sentence": "I heard that Tom and Mary have been arrested.",
+   "source": "dev"
+  },
+  {
+   "sentence": "He didn't wash his car.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Sami started to film himself.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Tom likes drawing.",
+   "source": "dev"
+  },
+  {
+   "sentence": "You should read books that will benefit you.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Why are we even here?",
+   "source": "dev"
+  },
+  {
+   "sentence": "He gave up his old career to become a full-time chess player.",
+   "source": "dev"
+  },
+  {
+   "sentence": "One of us is lying.",
+   "source": "dev"
+  },
+  {
+   "sentence": "James even whistled in surprise when he saw Amanda there.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Feeling and seeing you happy makes me happy too.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Tom and Mary said they've been asked to do that again.",
+   "source": "dev"
+  },
+  {
+   "sentence": "I doubt that Tom did that on purpose.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Where's my appointment book?",
+   "source": "dev"
+  },
+  {
+   "sentence": "Tom wanted to prove to himself he could do it.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Is life a simulation?",
+   "source": "dev"
+  },
+  {
+   "sentence": "They know that they should study French.",
+   "source": "dev"
+  },
+  {
+   "sentence": "He checked the data.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Here's my passport.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Bruno found a couple cardboard boxes in the basement.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Sami wanted to know what happened after that.",
+   "source": "dev"
+  },
+  {
+   "sentence": "We all hate television and computers.",
+   "source": "dev"
+  },
+  {
+   "sentence": "What should I have for dinner?",
+   "source": "dev"
+  },
+  {
+   "sentence": "She stayed in the car with him.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Tom doesn't like to speak in public.",
+   "source": "dev"
+  },
+  {
+   "sentence": "They are not old.",
+   "source": "dev"
+  },
+  {
+   "sentence": "I know how to ski.",
+   "source": "dev"
+  },
+  {
+   "sentence": "The clinic was severely damaged by an earthquake.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Ken folded the blanket in half.",
+   "source": "dev"
+  },
+  {
+   "sentence": "He often had a blank stare.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Do you happen to know where Tom was born?",
+   "source": "dev"
+  },
+  {
+   "sentence": "Is Tom standing?",
+   "source": "dev"
+  },
+  {
+   "sentence": "The work can't be done at a moment's notice.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Who do you usually do that with?",
+   "source": "dev"
+  },
+  {
+   "sentence": "Tom tried to convince Mary to quit doing that.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Take the money before the police come!",
+   "source": "dev"
+  },
+  {
+   "sentence": "I'm going to get blamed for that, I'm sure.",
+   "source": "dev"
+  },
+  {
+   "sentence": "I looked at the thermometer.",
+   "source": "dev"
+  },
+  {
+   "sentence": "I've been preparing for this my entire life.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Tom, which class are you in?",
+   "source": "dev"
+  },
+  {
+   "sentence": "Why does Tom's hair look like that?",
+   "source": "dev"
+  },
+  {
+   "sentence": "My wife lied to me.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Tom faces criticism with professional aplomb, never losing his composure.",
+   "source": "dev"
+  },
+  {
+   "sentence": "I recommend this cheese.",
+   "source": "dev"
+  },
+  {
+   "sentence": "This train is bound for New York.",
+   "source": "dev"
+  },
+  {
+   "sentence": "How did she tell them?",
+   "source": "dev"
+  },
+  {
+   "sentence": "You always get up early, don't you?",
+   "source": "dev"
+  },
+  {
+   "sentence": "Tom told me how supportive you were.",
+   "source": "dev"
+  },
+  {
+   "sentence": "She's a poor student.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Sami had dreadlocks.",
+   "source": "dev"
+  },
+  {
+   "sentence": "She knew that I loved her.",
+   "source": "dev"
+  },
+  {
+   "sentence": "They were just average.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Ziri fell down in pain.",
+   "source": "dev"
+  },
+  {
+   "sentence": "We just got started.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Why are you going out?",
+   "source": "dev"
+  },
+  {
+   "sentence": "I felt pressure on my shoulder and turned around.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Not doing anything bad doesn't make you good.",
+   "source": "dev"
+  },
+  {
+   "sentence": "They told me they ate too much.",
+   "source": "dev"
+  },
+  {
+   "sentence": "He took Jane out for dinner.",
+   "source": "dev"
+  },
+  {
+   "sentence": "I know that you did it.",
+   "source": "dev"
+  },
+  {
+   "sentence": "This time we won.",
+   "source": "dev"
+  },
+  {
+   "sentence": "I'm never in a hurry.",
+   "source": "dev"
+  },
+  {
+   "sentence": "The phone beside Felix started ringing.",
+   "source": "dev"
+  },
+  {
+   "sentence": "This handle just won't turn.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Tom has his good days and bad days.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Give them back to him.",
+   "source": "dev"
+  },
+  {
+   "sentence": "I'm here until the end of the week.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Mennad finished high school late.",
+   "source": "dev"
+  },
+  {
+   "sentence": "It should be known that I can stand on one leg.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Could you go shopping with me?",
+   "source": "dev"
+  },
+  {
+   "sentence": "I want to learn how to shoot.",
+   "source": "dev"
+  },
+  {
+   "sentence": "The baker sprinkled powdered sugar on the buns.",
+   "source": "dev"
+  },
+  {
+   "sentence": "If I had time, I could log in.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Tatoeba is helping to improve my Esperanto.",
+   "source": "dev"
+  },
+  {
+   "sentence": "He put the tiara on her head.",
+   "source": "dev"
+  },
+  {
+   "sentence": "I think Tom will go to Australia next summer.",
+   "source": "dev"
+  },
+  {
+   "sentence": "The old woman reminisced about the old days.",
+   "source": "dev"
+  },
+  {
+   "sentence": "I usually translate from English into Spanish.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Tom and Mary were in a difficult situation, so I helped them.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Mark made me an antisocial person.",
+   "source": "dev"
+  },
+  {
+   "sentence": "He's at school at the moment.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Tom said he was taking a bath when he heard the gunshots.",
+   "source": "dev"
+  },
+  {
+   "sentence": "You can't be my teacher.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Thank you so much for telling me that story.",
+   "source": "dev"
+  },
+  {
+   "sentence": "I like muesli.",
+   "source": "dev"
+  },
+  {
+   "sentence": "In the end, we won't have any regrets.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Twenty-eight, twenty-nine, thirty or thirty-one days make up a month.",
+   "source": "dev"
+  },
+  {
+   "sentence": "They treated me like a criminal.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Ziri doesn't have a reason to come back.",
+   "source": "dev"
+  },
+  {
+   "sentence": "You'll find Tom over there.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Tom was convinced he ought to do that.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Please put it in the cupboard.",
+   "source": "dev"
+  },
+  {
+   "sentence": "I'd have done that myself if I'd known how.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Oleg is also there.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Who'll wash the dishes after dinner?",
+   "source": "dev"
+  },
+  {
+   "sentence": "Sami fell in love with Layla.",
+   "source": "dev"
+  },
+  {
+   "sentence": "They obtained a yield of 8 percent on their investment.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Tom has to do it even though he doesn't want to.",
+   "source": "dev"
+  },
+  {
+   "sentence": "The patient needs to be operated on immediately.",
+   "source": "dev"
+  },
+  {
+   "sentence": "We had to abandon that plan.",
+   "source": "dev"
+  },
+  {
+   "sentence": "These structures would rarely, if ever, occur in spoken English.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Jean often eats lunch quickly.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Tom and I aren't busy now.",
+   "source": "dev"
+  },
+  {
+   "sentence": "It went on for months.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Close the window when you leave.",
+   "source": "dev"
+  },
+  {
+   "sentence": "I know Tom can win.",
+   "source": "dev"
+  },
+  {
+   "sentence": "I admitted that I didn't do what I promised to do.",
+   "source": "dev"
+  },
+  {
+   "sentence": "I'd like to look at that graph.",
+   "source": "dev"
+  },
+  {
+   "sentence": "He made me cry.",
+   "source": "dev"
+  },
+  {
+   "sentence": "At last she managed to get up off the floor.",
+   "source": "dev"
+  },
+  {
+   "sentence": "The meat has to be frozen.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Raising a dog is like raising a kid, right?",
+   "source": "dev"
+  },
+  {
+   "sentence": "I got more shampoo.",
+   "source": "dev"
+  },
+  {
+   "sentence": "He looked like he was sleepy.",
+   "source": "dev"
+  },
+  {
+   "sentence": "I know your kind.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Tom and Mary often discuss the importance of environmental conservation.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Transatlantic flights are among the most profitable parts of Air France-KLM's business.",
+   "source": "dev"
+  },
+  {
+   "sentence": "They learn to do without being taught.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Please turn left at the next light.",
+   "source": "dev"
+  },
+  {
+   "sentence": "I can't wait for it!",
+   "source": "dev"
+  },
+  {
+   "sentence": "Tom knew everyone.",
+   "source": "dev"
+  },
+  {
+   "sentence": "I was amused at the story.",
+   "source": "dev"
+  },
+  {
+   "sentence": "I have to lose weight, so I'm on a diet.",
+   "source": "dev"
+  },
+  {
+   "sentence": "He always plans a thing out carefully before he does it.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Tom and Mary are both on the guest list.",
+   "source": "dev"
+  },
+  {
+   "sentence": "You like tennis, don't you?",
+   "source": "dev"
+  },
+  {
+   "sentence": "I wouldn't have waited.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Tom and Mary told me that they thought John was dependable.",
+   "source": "dev"
+  },
+  {
+   "sentence": "He slipped off his headphones.",
+   "source": "dev"
+  },
+  {
+   "sentence": "I don't think that Tom knows whether Mary will come or not.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Yanni hit his head on the toilet seat.",
+   "source": "dev"
+  },
+  {
+   "sentence": "I know that Tom is a few years older than Mary.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Yanni is dropping Skura off at work.",
+   "source": "dev"
+  },
+  {
+   "sentence": "You might be smart enough to choose a profession in the future.",
+   "source": "dev"
+  },
+  {
+   "sentence": "It's not OK to execute someone without due process.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Tom wanted to ride Mary's motorcycle.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Don't fish in this river. It is not allowed.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Is the camera on?",
+   "source": "dev"
+  },
+  {
+   "sentence": "What kind of book is that, and who is the author?",
+   "source": "dev"
+  },
+  {
+   "sentence": "Could you give me a hug, please?",
+   "source": "dev"
+  },
+  {
+   "sentence": "No one was at home waiting for me.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Sami is going to work.",
+   "source": "dev"
+  },
+  {
+   "sentence": "She was too fat.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Tom talks to Mary a lot.",
+   "source": "dev"
+  },
+  {
+   "sentence": "I hope I can do that tomorrow.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Mary has too much makeup on.",
+   "source": "dev"
+  },
+  {
+   "sentence": "He had to sell the sheep.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Joe Biden is a perfect puppet.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Tom might be awake.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Tom didn't do that as quickly as he should've.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Look forward, please.",
+   "source": "dev"
+  },
+  {
+   "sentence": "I perceived his weeping.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Daniel got a call from child services.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Do you enjoy Mary's company?",
+   "source": "dev"
+  },
+  {
+   "sentence": "He needs a lot of practice.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Sami was super friendly.",
+   "source": "dev"
+  },
+  {
+   "sentence": "I should have taken some medication for seasickness.",
+   "source": "dev"
+  },
+  {
+   "sentence": "She said she slept well last night.",
+   "source": "dev"
+  },
+  {
+   "sentence": "This isn't a very comfortable chair.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Tom has invented three languages.",
+   "source": "dev"
+  },
+  {
+   "sentence": "We just got Tom to go to sleep.",
+   "source": "dev"
+  },
+  {
+   "sentence": "I like your coffee.",
+   "source": "dev"
+  },
+  {
+   "sentence": "What's in the coffee?",
+   "source": "dev"
+  },
+  {
+   "sentence": "I wonder why Tom does that.",
+   "source": "dev"
+  },
+  {
+   "sentence": "My English isn't all too good.",
+   "source": "dev"
+  },
+  {
+   "sentence": "It wasn't Tom who did this.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Your question is hard for me to answer.",
+   "source": "dev"
+  },
+  {
+   "sentence": "She says that she wants to win.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Tom shouldn't do that unless I'm there to help him.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Lions are magnificent creatures.",
+   "source": "dev"
+  },
+  {
+   "sentence": "What's the mileage on this car?",
+   "source": "dev"
+  },
+  {
+   "sentence": "That four-year plan has to be approved.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Tom fights for human rights.",
+   "source": "dev"
+  },
+  {
+   "sentence": "We must act now.",
+   "source": "dev"
+  },
+  {
+   "sentence": "I don't always come home this late.",
+   "source": "dev"
+  },
+  {
+   "sentence": "She's not as beautiful as her sister.",
+   "source": "dev"
+  },
+  {
+   "sentence": "I'm reading an interesting article about environment protection.",
+   "source": "dev"
+  },
+  {
+   "sentence": "That man pushed her to the side.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Tom wasn't as nervous as Mary was.",
+   "source": "dev"
+  },
+  {
+   "sentence": "To Ziri\u2019s surprise, the principal spoke up for him.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Tom said he'd never planned on living in Australia for so long.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Tom seems somewhat excited.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Religion is the opium of the people.",
+   "source": "dev"
+  },
+  {
+   "sentence": "They're part of the family.",
+   "source": "dev"
+  },
+  {
+   "sentence": "There's plenty of space.",
+   "source": "dev"
+  },
+  {
+   "sentence": "The seed is beginning to germinate.",
+   "source": "dev"
+  },
+  {
+   "sentence": "It didn't bother Boldi that people suffered because of him.",
+   "source": "dev"
+  },
+  {
+   "sentence": "The title wise is, for the most part, falsely applied.",
+   "source": "dev"
+  },
+  {
+   "sentence": "I think that Tom is the one who painted this fence.",
+   "source": "dev"
+  },
+  {
+   "sentence": "I can't eat this crud!",
+   "source": "dev"
+  },
+  {
+   "sentence": "Evenings by candle-light in Wroclaw.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Don't forget to preheat the oven before baking.",
+   "source": "dev"
+  },
+  {
+   "sentence": "Powered With Oliver Pos",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Spafford (band), a band from Prescott, Arizona, United States",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Shooting Indoors Now",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Pavel Macek Sifu",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Racism is evil.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "For perfection, David Attenborough narrates the scene.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "And there still is.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "In addition to her magical prowess, Traci 13 possesses acute detective skills.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Book of Legends",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Question about Ford F-150",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "With the Orioles, his pitchers ranked 29th and 29th in ERA.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Blade Runner 2049 is rated 14A.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Did you see the lights and take a photo?",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Power down the eMachines computer and unplug it from the power outlet.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Summer was pageant time.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Anton Warns (b.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Also in the frame to force the issue and finish.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Actress Amy Aquino (ah-KEE'-noh) is 61.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Oxygen minimum zone",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Polish national parks (in English)",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "TrustedReviews alumni as well as soon-to-be-announced experts from within the industry.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Bamba also had 10 rebounds.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "He may, though, have worked for the Bramah company.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "What other businesses can learn",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Professor of Mathematics",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "This is generally a long and tedious process.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "The other (my friend Stan) has a (female) pig.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "The question is...will that deal come from the Chiefs?",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Another rabbit joke played on the girls?",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Carrington family tree",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Improving customer retention is a positive for any business.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "We do not volitionally create our own thinking.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Project connects downtown with Central Platte Valley's entertainment venues",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Governance and basic services",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "In Italy the currency is Euro (abbreviated as EUR).",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Good research Joe.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "The Mishnah's seven chapters cover the following topics:",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Musical groups established in 1994",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "A traditional dispute in this field is between monist and pluralist theories.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Made in the U.S.A.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Yet, neither has received any justice.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "D&D Encounters: Dark Legacy of Evard",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Addressing Sexual Dysfunction",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Do you need any further information?",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "New Listings in Teterboro",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "What is a cheese curd?",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Upgrade myself.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "NO BOOKING FEES",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "He actually almost died.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "We're glad you're interested in attending Santa Monica College.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Let them lure you into the tent.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Czech ice hockey coaches",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "I'm glad that we're having this conversation.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Choosing the best online dating solution can be tiresome.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Easily 30 to 50 maybe more.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Court documents say the grenades were discovered missing Feb.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Let your light shine for Christ with this seashore debit caddy.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "OK: (Order if you like this dish)",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "C3C Blockchain",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "This is the first time I had any trouble with my P3.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "I wish Todd and the entire Maxwell's team the best of",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "They withdrew due to injury.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "So in this section, Perfect Keylogger gets 120 points out of 300.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Symphonic poems by Jean Sibelius",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "John said he chose the 351 to keep his F-100 all Ford.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Their Esio franchise unit had 1,100 clients and 10 employees through December.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "It looked like an old red lunchbox, says Randall King.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Integration of beacons and interactions within your app was never easier.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Sean Clare - 6 - Won the late penalty which Naismith missed",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "I am going to ask you to please stop sharing those photos.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Philharmonia Baroque Orchestra, Nicholas McGegan.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Ocean deep --",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Massimiliano Ferrara, Luca Guerrini, Binlin Zhang",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Peabody & Sherman Movie Finally I get this, I can get now!",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "The party stood six candidates in the 1945 Northern Ireland general election.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "The Bruins dropped four spots to No.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Billy Bodin challenges for the ball",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "English television producers",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Columbia administrators did not immediately comment on the strike.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "In my experience, there is only one motivation, and that is desire.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "When you're mindful, the mind is fully present for what's actually happening.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "We seem so nice to ourselves.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Sex plays an important role in relationships.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "For further instructions please go to the HOW TO MEASURE page.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Cassini launched in October 1997 with the European Space Agency's Huygens probe.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Perfect for birthdays, Christmas, Easter Sunday, First Holy Communion and weddings.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "RMRS Online Publication - Journal",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Dynasty (1981 TV series)",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Follow these simple instructions:",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "He questioned the aims of the tests.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "I guess you get what you pay for.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Dan Thompson is a freelance writer based in Brea, CA.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Did anyone check the golf simulator?",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "He later said he lost \"7-8 seconds\" on the error.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Phil: Well, this is my first visit to Washington, D.C.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Here's a grab from our platoon's page description:",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "He told Channel 4 that Gov.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Designed by sdsplans.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Which bank has given you the most fair and square deal?",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "This is a full time, exempt, salaried position.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "It's more efficient and effective to outsource it.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "More information on the course is available here!",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Harrison, Martin, Burne-Jones/material, London: Barrie and Jenkins, 1979.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Using oven mitts, tilt each ramekin to coat sides with caramel.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Or simply Candy realizing that what the hens like, she might, too.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Obviously not me,\" she wrote.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Cross country",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Prehistory of the Czech lands",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "It had disappeared by the mid-1920s.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "I am a lucky guy.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Patchwork Corduroy and Angels Tote by HazelHoney",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Managing usage and controlling bills",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Read Berkley Sells' previous column.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "The Terms of Reference of the tender_TRANSLATION",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "KEYWORD: UNITED STATES NORTH AMERICA RHODE ISLAND",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Don't wait till your staff mess up.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Pablo Picasso, Madrid, red, 1930s.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Other thesis, University of Muhammadiyah Malang.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Bodie (disambiguation)",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "AdBit blockchain",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Celebrate your friendships with a personalized gift.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Performance improvements",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Best Actor- Male",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "The Great Stupa of Dharmakaya",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "By PF Staff in Favorite Photos on Jan 16, 2013",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "If you are seeking for the amazing and source of ingredients.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "So we decided to research and write this special report for you.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "At Fort McHenry, this was a history-making event.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "In 855, Michael III turned fifteen and thus came nominally of age.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Sales daybook, for recording sales invoices.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "US only BUT",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Santa Ysabel may refer to the following:",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "In Slovakia",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Spafford, Minnesota, an unincorporated community",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Please remember to share it with them, thanks!",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "My labels arrived today - happy!",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Safe for both Dogs and Cats!",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Frameless Hollywood Lighted Vanity Mirror Dimmable LED White w/ Chrome trim.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Get notified with every new Terry Brands Video.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Animal Husbandry Service.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Hamas will work to support and strengthen its role.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Lif combines lyrical skill with a call to arms.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Swan III, Bales, Ford's other three children, and others.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Add egg product and butter flavor; mix well.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "In this section Perfect Keylogger gets 91 point out of 150",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "What does it mean to be a Wisconsinite?",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "She is also the editor of The Oxford Companion to English Literature.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Sign me up.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "MORE: WATCH: Joel Embiid dunks on another hopeless victim at local park",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "What a tear-jerker.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "But be warned.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Club Atl\u00e9tico V\u00e9lez Sarsfield footballers",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Associated Press writer Jim Vertuno contributed to this report.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "WorldView Global Alliance User Conference 2016",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "So some good news this morning.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "The first use of the phrase in an environmental context is disputed.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Use Donately with Braze",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "The neocortex is devoted mainly to touch and hearing.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Limited seating for chairs is available.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Vote-USA uses your address only to provide you",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Whisk together and set aside.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Michael W.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Augusto Pinochet, and most of those crimes remain unsolved.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Read the FTC Disclosure for more information.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "African and Malagasy Union",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "How to Search for Articles With a Company Focus TLG",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Trying Out Playing Sorry",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Do we fight with clenched teeth ready to conquer?",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Jeffires played wide receiver for the Oilers between 1987 and 1996.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Nick Martin will help protect Brock Osweiler, and improve the running game.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "See \"Using a Theme\" below.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "But this time, Mel B is involved with a real-life policeman.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Negreanu is a years five years.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "BrewBarr lets you track, rate, and browse through your beer drinking history.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Firm acidity and moderate tannins provide backbone unaffected by oak-barrel influences.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Call a Pembroke Pines Floor Materials today!",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Pelosi blasted that strategy as \"an act of cowardice.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Picasso Museum, Montcada",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "He guest conducted the St.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Thus, \"taxation\" and smuggling were the main sources of income.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "The agreement will need court approval.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "She said the enemy was attacking her from many different directions.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Stine Bramsen and drop earrings: a great, all too rarely seen, match.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Christine Ohlman and Rebel Montez",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Stock Options: Who Wins And Who Loses?",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "These figures rise to and when the 2.4-litre 2AZ-FE unit is fitted.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Representatives from Altis and CRM Windringe declined to comment on their returns.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Tilloo Cay",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Methotrexate is used to:",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Please enter your \"Postal Code\" to find stores",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "Burials at Montparnasse Cemetery",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "By then, I was on The Simpsons.",
+   "source": "mixed_val"
+  },
+  {
+   "sentence": "The big dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The large dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The small dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The wooden dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The happy dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The glad dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The sad dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The metal dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The fast dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The quick dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The slow dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The purple dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The cold dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The chilly dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The hot dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The legal dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The quiet dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The silent dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The loud dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The square dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The rich dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The wealthy dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The poor dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The frozen dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The easy dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The simple dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The hard dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The plastic dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The angry dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The mad dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The calm dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The round dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The tired dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The sleepy dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The awake dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The yellow dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The smart dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The clever dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The stupid dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The empty dog waited outside the door.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a big afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a large afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a small afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a wooden afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a happy afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a glad afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a sad afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a metal afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a fast afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a quick afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a slow afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a purple afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a cold afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a chilly afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a hot afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a legal afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a quiet afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a silent afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a loud afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a square afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a rich afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a wealthy afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a poor afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a frozen afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a easy afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a simple afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a hard afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a plastic afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a angry afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a mad afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a calm afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a round afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a tired afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a sleepy afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a awake afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a yellow afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a smart afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a clever afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a stupid afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "It was a empty afternoon in the village.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very big today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very large today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very small today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very wooden today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very happy today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very glad today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very sad today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very metal today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very fast today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very quick today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very slow today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very purple today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very cold today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very chilly today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very hot today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very legal today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very quiet today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very silent today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very loud today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very square today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very rich today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very wealthy today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very poor today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very frozen today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very easy today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very simple today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very hard today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very plastic today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very angry today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very mad today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very calm today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very round today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very tired today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very sleepy today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very awake today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very yellow today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very smart today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very clever today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very stupid today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My neighbor seemed very empty today.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a big house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a large house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a small house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a wooden house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a happy house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a glad house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a sad house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a metal house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a fast house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a quick house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a slow house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a purple house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a cold house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a chilly house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a hot house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a legal house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a quiet house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a silent house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a loud house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a square house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a rich house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a wealthy house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a poor house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a frozen house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a easy house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a simple house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a hard house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a plastic house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a angry house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a mad house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a calm house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a round house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a tired house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a sleepy house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a awake house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a yellow house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a smart house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a clever house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a stupid house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "They lived in a empty house near the lake.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the boat from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the ship from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the car from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the idea from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the house from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the home from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the tent from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the answer from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the road from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the street from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the river from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the song from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the doctor from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the physician from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the teacher from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the window from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the shop from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the store from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the bank from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the cloud from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the child from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the kid from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the adult from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the spoon from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the gift from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the present from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the bill from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the planet from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the bread from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the loaf from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the soup from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the engine from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the city from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the town from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the farm from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the promise from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the film from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the movie from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the book from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "We saw the tooth from the window.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the boat all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the ship all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the car all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the idea all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the house all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the home all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the tent all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the answer all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the road all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the street all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the river all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the song all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the doctor all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the physician all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the teacher all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the window all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the shop all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the store all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the bank all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the cloud all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the child all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the kid all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the adult all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the spoon all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the gift all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the present all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the bill all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the planet all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the bread all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the loaf all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the soup all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the engine all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the city all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the town all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the farm all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the promise all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the film all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the movie all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the book all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "She talked about the tooth all evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the boat to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the ship to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the car to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the idea to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the house to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the home to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the tent to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the answer to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the road to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the street to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the river to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the song to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the doctor to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the physician to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the teacher to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the window to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the shop to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the store to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the bank to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the cloud to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the child to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the kid to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the adult to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the spoon to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the gift to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the present to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the bill to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the planet to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the bread to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the loaf to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the soup to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the engine to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the city to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the town to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the farm to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the promise to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the film to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the movie to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the book to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "Nobody expected the tooth to be there.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the boat yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the ship yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the car yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the idea yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the house yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the home yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the tent yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the answer yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the road yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the street yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the river yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the song yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the doctor yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the physician yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the teacher yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the window yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the shop yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the store yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the bank yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the cloud yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the child yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the kid yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the adult yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the spoon yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the gift yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the present yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the bill yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the planet yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the bread yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the loaf yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the soup yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the engine yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the city yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the town yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the farm yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the promise yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the film yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the movie yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the book yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "He drew a picture of the tooth yesterday.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The concert began at nine in the evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The concert started at nine in the evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The concert ended at nine in the evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The concert painted at nine in the evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The concert shouted at nine in the evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The concert yelled at nine in the evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The concert whispered at nine in the evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The concert cooked at nine in the evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The concert bought at nine in the evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The concert purchased at nine in the evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The concert sold at nine in the evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The concert swam at nine in the evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The concert arrived at nine in the evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The concert came at nine in the evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The concert left at nine in the evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The concert melted at nine in the evening.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My uncle began when he heard the news.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My uncle started when he heard the news.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My uncle ended when he heard the news.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My uncle painted when he heard the news.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My uncle shouted when he heard the news.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My uncle yelled when he heard the news.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My uncle whispered when he heard the news.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My uncle cooked when he heard the news.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My uncle bought when he heard the news.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My uncle purchased when he heard the news.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My uncle sold when he heard the news.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My uncle swam when he heard the news.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My uncle arrived when he heard the news.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My uncle came when he heard the news.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My uncle left when he heard the news.",
+   "source": "frame"
+  },
+  {
+   "sentence": "My uncle melted when he heard the news.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The guests began before the rain.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The guests started before the rain.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The guests ended before the rain.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The guests painted before the rain.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The guests shouted before the rain.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The guests yelled before the rain.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The guests whispered before the rain.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The guests cooked before the rain.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The guests bought before the rain.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The guests purchased before the rain.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The guests sold before the rain.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The guests swam before the rain.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The guests arrived before the rain.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The guests came before the rain.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The guests left before the rain.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The guests melted before the rain.",
+   "source": "frame"
+  },
+  {
+   "sentence": "The dog bit the man.",
+   "source": "triplet"
+  },
+  {
+   "sentence": "The man was bitten by the dog.",
+   "source": "triplet"
+  },
+  {
+   "sentence": "The man bit the dog.",
+   "source": "triplet"
+  },
+  {
+   "sentence": "Anna gave Peter a book.",
+   "source": "triplet"
+  },
+  {
+   "sentence": "Peter received a book from Anna.",
+   "source": "triplet"
+  },
+  {
+   "sentence": "Peter gave Anna a book.",
+   "source": "triplet"
+  },
+  {
+   "sentence": "The cat chased the mouse.",
+   "source": "triplet"
+  },
+  {
+   "sentence": "The mouse was chased by the cat.",
+   "source": "triplet"
+  },
+  {
+   "sentence": "The mouse chased the cat.",
+   "source": "triplet"
+  },
+  {
+   "sentence": "I am taller than my brother.",
+   "source": "triplet"
+  },
+  {
+   "sentence": "My brother is shorter than me.",
+   "source": "triplet"
+  },
+  {
+   "sentence": "My brother is taller than me.",
+   "source": "triplet"
+  },
+  {
+   "sentence": "The train left before we arrived.",
+   "source": "triplet"
+  },
+  {
+   "sentence": "We arrived after the train had left.",
+   "source": "triplet"
+  },
+  {
+   "sentence": "We left before the train arrived.",
+   "source": "triplet"
+  },
+  {
+   "sentence": "She sold her car to Tom.",
+   "source": "triplet"
+  },
+  {
+   "sentence": "Tom bought her car from her.",
+   "source": "triplet"
+  },
+  {
+   "sentence": "Tom sold his car to her.",
+   "source": "triplet"
+  },
+  {
+   "sentence": "The teacher praised the student.",
+   "source": "triplet"
+  },
+  {
+   "sentence": "The student was praised by the teacher.",
+   "source": "triplet"
+  },
+  {
+   "sentence": "The student praised the teacher.",
+   "source": "triplet"
+  },
+  {
+   "sentence": "It started raining after lunch.",
+   "source": "triplet"
+  },
+  {
+   "sentence": "The rain began once we had eaten lunch.",
+   "source": "triplet"
+  },
+  {
+   "sentence": "Lunch started after the rain.",
+   "source": "triplet"
+  },
+  {
+   "sentence": "Mark is older than Lisa.",
+   "source": "triplet"
+  },
+  {
+   "sentence": "Lisa is younger than Mark.",
+   "source": "triplet"
+  },
+  {
+   "sentence": "Lisa is older than Mark.",
+   "source": "triplet"
+  },
+  {
+   "sentence": "The bird flew over the house.",
+   "source": "triplet"
+  },
+  {
+   "sentence": "The house was flown over by the bird.",
+   "source": "triplet"
+  },
+  {
+   "sentence": "The house flew over the bird.",
+   "source": "triplet"
+  },
+  {
+   "sentence": "We won the game easily.",
+   "source": "triplet"
+  },
+  {
+   "sentence": "The game was an easy win for us.",
+   "source": "triplet"
+  },
+  {
+   "sentence": "The game easily won us.",
+   "source": "triplet"
+  },
+  {
+   "sentence": "My sister called me last night.",
+   "source": "triplet"
+  },
+  {
+   "sentence": "I got a call from my sister last night.",
+   "source": "triplet"
+  },
+  {
+   "sentence": "I called my sister last night.",
+   "source": "triplet"
+  }
+ ],
+ "frames": [
+  {
+   "pos": "adj",
+   "frame": "The {} dog waited outside the door.",
+   "words": [
+    "big",
+    "large",
+    "small",
+    "wooden"
+   ]
+  },
+  {
+   "pos": "adj",
+   "frame": "The {} dog waited outside the door.",
+   "words": [
+    "happy",
+    "glad",
+    "sad",
+    "metal"
+   ]
+  },
+  {
+   "pos": "adj",
+   "frame": "The {} dog waited outside the door.",
+   "words": [
+    "fast",
+    "quick",
+    "slow",
+    "purple"
+   ]
+  },
+  {
+   "pos": "adj",
+   "frame": "The {} dog waited outside the door.",
+   "words": [
+    "cold",
+    "chilly",
+    "hot",
+    "legal"
+   ]
+  },
+  {
+   "pos": "adj",
+   "frame": "The {} dog waited outside the door.",
+   "words": [
+    "quiet",
+    "silent",
+    "loud",
+    "square"
+   ]
+  },
+  {
+   "pos": "adj",
+   "frame": "The {} dog waited outside the door.",
+   "words": [
+    "rich",
+    "wealthy",
+    "poor",
+    "frozen"
+   ]
+  },
+  {
+   "pos": "adj",
+   "frame": "The {} dog waited outside the door.",
+   "words": [
+    "easy",
+    "simple",
+    "hard",
+    "plastic"
+   ]
+  },
+  {
+   "pos": "adj",
+   "frame": "The {} dog waited outside the door.",
+   "words": [
+    "angry",
+    "mad",
+    "calm",
+    "round"
+   ]
+  },
+  {
+   "pos": "adj",
+   "frame": "The {} dog waited outside the door.",
+   "words": [
+    "tired",
+    "sleepy",
+    "awake",
+    "yellow"
+   ]
+  },
+  {
+   "pos": "adj",
+   "frame": "The {} dog waited outside the door.",
+   "words": [
+    "smart",
+    "clever",
+    "stupid",
+    "empty"
+   ]
+  },
+  {
+   "pos": "adj",
+   "frame": "It was a {} afternoon in the village.",
+   "words": [
+    "big",
+    "large",
+    "small",
+    "wooden"
+   ]
+  },
+  {
+   "pos": "adj",
+   "frame": "It was a {} afternoon in the village.",
+   "words": [
+    "happy",
+    "glad",
+    "sad",
+    "metal"
+   ]
+  },
+  {
+   "pos": "adj",
+   "frame": "It was a {} afternoon in the village.",
+   "words": [
+    "fast",
+    "quick",
+    "slow",
+    "purple"
+   ]
+  },
+  {
+   "pos": "adj",
+   "frame": "It was a {} afternoon in the village.",
+   "words": [
+    "cold",
+    "chilly",
+    "hot",
+    "legal"
+   ]
+  },
+  {
+   "pos": "adj",
+   "frame": "It was a {} afternoon in the village.",
+   "words": [
+    "quiet",
+    "silent",
+    "loud",
+    "square"
+   ]
+  },
+  {
+   "pos": "adj",
+   "frame": "It was a {} afternoon in the village.",
+   "words": [
+    "rich",
+    "wealthy",
+    "poor",
+    "frozen"
+   ]
+  },
+  {
+   "pos": "adj",
+   "frame": "It was a {} afternoon in the village.",
+   "words": [
+    "easy",
+    "simple",
+    "hard",
+    "plastic"
+   ]
+  },
+  {
+   "pos": "adj",
+   "frame": "It was a {} afternoon in the village.",
+   "words": [
+    "angry",
+    "mad",
+    "calm",
+    "round"
+   ]
+  },
+  {
+   "pos": "adj",
+   "frame": "It was a {} afternoon in the village.",
+   "words": [
+    "tired",
+    "sleepy",
+    "awake",
+    "yellow"
+   ]
+  },
+  {
+   "pos": "adj",
+   "frame": "It was a {} afternoon in the village.",
+   "words": [
+    "smart",
+    "clever",
+    "stupid",
+    "empty"
+   ]
+  },
+  {
+   "pos": "adj",
+   "frame": "My neighbor seemed very {} today.",
+   "words": [
+    "big",
+    "large",
+    "small",
+    "wooden"
+   ]
+  },
+  {
+   "pos": "adj",
+   "frame": "My neighbor seemed very {} today.",
+   "words": [
+    "happy",
+    "glad",
+    "sad",
+    "metal"
+   ]
+  },
+  {
+   "pos": "adj",
+   "frame": "My neighbor seemed very {} today.",
+   "words": [
+    "fast",
+    "quick",
+    "slow",
+    "purple"
+   ]
+  },
+  {
+   "pos": "adj",
+   "frame": "My neighbor seemed very {} today.",
+   "words": [
+    "cold",
+    "chilly",
+    "hot",
+    "legal"
+   ]
+  },
+  {
+   "pos": "adj",
+   "frame": "My neighbor seemed very {} today.",
+   "words": [
+    "quiet",
+    "silent",
+    "loud",
+    "square"
+   ]
+  },
+  {
+   "pos": "adj",
+   "frame": "My neighbor seemed very {} today.",
+   "words": [
+    "rich",
+    "wealthy",
+    "poor",
+    "frozen"
+   ]
+  },
+  {
+   "pos": "adj",
+   "frame": "My neighbor seemed very {} today.",
+   "words": [
+    "easy",
+    "simple",
+    "hard",
+    "plastic"
+   ]
+  },
+  {
+   "pos": "adj",
+   "frame": "My neighbor seemed very {} today.",
+   "words": [
+    "angry",
+    "mad",
+    "calm",
+    "round"
+   ]
+  },
+  {
+   "pos": "adj",
+   "frame": "My neighbor seemed very {} today.",
+   "words": [
+    "tired",
+    "sleepy",
+    "awake",
+    "yellow"
+   ]
+  },
+  {
+   "pos": "adj",
+   "frame": "My neighbor seemed very {} today.",
+   "words": [
+    "smart",
+    "clever",
+    "stupid",
+    "empty"
+   ]
+  },
+  {
+   "pos": "adj",
+   "frame": "They lived in a {} house near the lake.",
+   "words": [
+    "big",
+    "large",
+    "small",
+    "wooden"
+   ]
+  },
+  {
+   "pos": "adj",
+   "frame": "They lived in a {} house near the lake.",
+   "words": [
+    "happy",
+    "glad",
+    "sad",
+    "metal"
+   ]
+  },
+  {
+   "pos": "adj",
+   "frame": "They lived in a {} house near the lake.",
+   "words": [
+    "fast",
+    "quick",
+    "slow",
+    "purple"
+   ]
+  },
+  {
+   "pos": "adj",
+   "frame": "They lived in a {} house near the lake.",
+   "words": [
+    "cold",
+    "chilly",
+    "hot",
+    "legal"
+   ]
+  },
+  {
+   "pos": "adj",
+   "frame": "They lived in a {} house near the lake.",
+   "words": [
+    "quiet",
+    "silent",
+    "loud",
+    "square"
+   ]
+  },
+  {
+   "pos": "adj",
+   "frame": "They lived in a {} house near the lake.",
+   "words": [
+    "rich",
+    "wealthy",
+    "poor",
+    "frozen"
+   ]
+  },
+  {
+   "pos": "adj",
+   "frame": "They lived in a {} house near the lake.",
+   "words": [
+    "easy",
+    "simple",
+    "hard",
+    "plastic"
+   ]
+  },
+  {
+   "pos": "adj",
+   "frame": "They lived in a {} house near the lake.",
+   "words": [
+    "angry",
+    "mad",
+    "calm",
+    "round"
+   ]
+  },
+  {
+   "pos": "adj",
+   "frame": "They lived in a {} house near the lake.",
+   "words": [
+    "tired",
+    "sleepy",
+    "awake",
+    "yellow"
+   ]
+  },
+  {
+   "pos": "adj",
+   "frame": "They lived in a {} house near the lake.",
+   "words": [
+    "smart",
+    "clever",
+    "stupid",
+    "empty"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "We saw the {} from the window.",
+   "words": [
+    "boat",
+    "ship",
+    "car",
+    "idea"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "We saw the {} from the window.",
+   "words": [
+    "house",
+    "home",
+    "tent",
+    "answer"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "We saw the {} from the window.",
+   "words": [
+    "road",
+    "street",
+    "river",
+    "song"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "We saw the {} from the window.",
+   "words": [
+    "doctor",
+    "physician",
+    "teacher",
+    "window"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "We saw the {} from the window.",
+   "words": [
+    "shop",
+    "store",
+    "bank",
+    "cloud"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "We saw the {} from the window.",
+   "words": [
+    "child",
+    "kid",
+    "adult",
+    "spoon"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "We saw the {} from the window.",
+   "words": [
+    "gift",
+    "present",
+    "bill",
+    "planet"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "We saw the {} from the window.",
+   "words": [
+    "bread",
+    "loaf",
+    "soup",
+    "engine"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "We saw the {} from the window.",
+   "words": [
+    "city",
+    "town",
+    "farm",
+    "promise"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "We saw the {} from the window.",
+   "words": [
+    "film",
+    "movie",
+    "book",
+    "tooth"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "She talked about the {} all evening.",
+   "words": [
+    "boat",
+    "ship",
+    "car",
+    "idea"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "She talked about the {} all evening.",
+   "words": [
+    "house",
+    "home",
+    "tent",
+    "answer"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "She talked about the {} all evening.",
+   "words": [
+    "road",
+    "street",
+    "river",
+    "song"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "She talked about the {} all evening.",
+   "words": [
+    "doctor",
+    "physician",
+    "teacher",
+    "window"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "She talked about the {} all evening.",
+   "words": [
+    "shop",
+    "store",
+    "bank",
+    "cloud"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "She talked about the {} all evening.",
+   "words": [
+    "child",
+    "kid",
+    "adult",
+    "spoon"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "She talked about the {} all evening.",
+   "words": [
+    "gift",
+    "present",
+    "bill",
+    "planet"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "She talked about the {} all evening.",
+   "words": [
+    "bread",
+    "loaf",
+    "soup",
+    "engine"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "She talked about the {} all evening.",
+   "words": [
+    "city",
+    "town",
+    "farm",
+    "promise"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "She talked about the {} all evening.",
+   "words": [
+    "film",
+    "movie",
+    "book",
+    "tooth"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "Nobody expected the {} to be there.",
+   "words": [
+    "boat",
+    "ship",
+    "car",
+    "idea"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "Nobody expected the {} to be there.",
+   "words": [
+    "house",
+    "home",
+    "tent",
+    "answer"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "Nobody expected the {} to be there.",
+   "words": [
+    "road",
+    "street",
+    "river",
+    "song"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "Nobody expected the {} to be there.",
+   "words": [
+    "doctor",
+    "physician",
+    "teacher",
+    "window"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "Nobody expected the {} to be there.",
+   "words": [
+    "shop",
+    "store",
+    "bank",
+    "cloud"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "Nobody expected the {} to be there.",
+   "words": [
+    "child",
+    "kid",
+    "adult",
+    "spoon"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "Nobody expected the {} to be there.",
+   "words": [
+    "gift",
+    "present",
+    "bill",
+    "planet"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "Nobody expected the {} to be there.",
+   "words": [
+    "bread",
+    "loaf",
+    "soup",
+    "engine"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "Nobody expected the {} to be there.",
+   "words": [
+    "city",
+    "town",
+    "farm",
+    "promise"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "Nobody expected the {} to be there.",
+   "words": [
+    "film",
+    "movie",
+    "book",
+    "tooth"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "He drew a picture of the {} yesterday.",
+   "words": [
+    "boat",
+    "ship",
+    "car",
+    "idea"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "He drew a picture of the {} yesterday.",
+   "words": [
+    "house",
+    "home",
+    "tent",
+    "answer"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "He drew a picture of the {} yesterday.",
+   "words": [
+    "road",
+    "street",
+    "river",
+    "song"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "He drew a picture of the {} yesterday.",
+   "words": [
+    "doctor",
+    "physician",
+    "teacher",
+    "window"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "He drew a picture of the {} yesterday.",
+   "words": [
+    "shop",
+    "store",
+    "bank",
+    "cloud"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "He drew a picture of the {} yesterday.",
+   "words": [
+    "child",
+    "kid",
+    "adult",
+    "spoon"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "He drew a picture of the {} yesterday.",
+   "words": [
+    "gift",
+    "present",
+    "bill",
+    "planet"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "He drew a picture of the {} yesterday.",
+   "words": [
+    "bread",
+    "loaf",
+    "soup",
+    "engine"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "He drew a picture of the {} yesterday.",
+   "words": [
+    "city",
+    "town",
+    "farm",
+    "promise"
+   ]
+  },
+  {
+   "pos": "noun",
+   "frame": "He drew a picture of the {} yesterday.",
+   "words": [
+    "film",
+    "movie",
+    "book",
+    "tooth"
+   ]
+  },
+  {
+   "pos": "verb",
+   "frame": "The concert {} at nine in the evening.",
+   "words": [
+    "began",
+    "started",
+    "ended",
+    "painted"
+   ]
+  },
+  {
+   "pos": "verb",
+   "frame": "The concert {} at nine in the evening.",
+   "words": [
+    "shouted",
+    "yelled",
+    "whispered",
+    "cooked"
+   ]
+  },
+  {
+   "pos": "verb",
+   "frame": "The concert {} at nine in the evening.",
+   "words": [
+    "bought",
+    "purchased",
+    "sold",
+    "swam"
+   ]
+  },
+  {
+   "pos": "verb",
+   "frame": "The concert {} at nine in the evening.",
+   "words": [
+    "arrived",
+    "came",
+    "left",
+    "melted"
+   ]
+  },
+  {
+   "pos": "verb",
+   "frame": "My uncle {} when he heard the news.",
+   "words": [
+    "began",
+    "started",
+    "ended",
+    "painted"
+   ]
+  },
+  {
+   "pos": "verb",
+   "frame": "My uncle {} when he heard the news.",
+   "words": [
+    "shouted",
+    "yelled",
+    "whispered",
+    "cooked"
+   ]
+  },
+  {
+   "pos": "verb",
+   "frame": "My uncle {} when he heard the news.",
+   "words": [
+    "bought",
+    "purchased",
+    "sold",
+    "swam"
+   ]
+  },
+  {
+   "pos": "verb",
+   "frame": "My uncle {} when he heard the news.",
+   "words": [
+    "arrived",
+    "came",
+    "left",
+    "melted"
+   ]
+  },
+  {
+   "pos": "verb",
+   "frame": "The guests {} before the rain.",
+   "words": [
+    "began",
+    "started",
+    "ended",
+    "painted"
+   ]
+  },
+  {
+   "pos": "verb",
+   "frame": "The guests {} before the rain.",
+   "words": [
+    "shouted",
+    "yelled",
+    "whispered",
+    "cooked"
+   ]
+  },
+  {
+   "pos": "verb",
+   "frame": "The guests {} before the rain.",
+   "words": [
+    "bought",
+    "purchased",
+    "sold",
+    "swam"
+   ]
+  },
+  {
+   "pos": "verb",
+   "frame": "The guests {} before the rain.",
+   "words": [
+    "arrived",
+    "came",
+    "left",
+    "melted"
+   ]
+  }
+ ]
+}

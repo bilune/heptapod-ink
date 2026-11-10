@@ -1,0 +1,91 @@
+{
+ "split": "fresh_natural",
+ "n": 256,
+ "seed": 0,
+ "rounds": 20,
+ "sec_per_sentence": 1.005,
+ "mean_accepted_moves": 13.93,
+ "reverted": 0.0508,
+ "plain": {
+  "exact": 0.418,
+  "exact_cased": 0.3594,
+  "word_acc": 0.7607,
+  "wer": 0.2238
+ },
+ "search": {
+  "exact": 0.8047,
+  "exact_cased": 0.7266,
+  "word_acc": 0.9106,
+  "wer": 0.0705
+ },
+ "plain_pert": {
+  "exact": 0.3633,
+  "exact_cased": 0.3125,
+  "word_acc": 0.729,
+  "wer": 0.2499
+ },
+ "search_pert": {
+  "exact": 0.75,
+  "exact_cased": 0.6875,
+  "word_acc": 0.8751,
+  "wer": 0.1016
+ },
+ "shuffled": {
+  "exact": 0.0117,
+  "exact_cased": 0.0117,
+  "word_acc": 0.0255,
+  "wer": 1.1771
+ },
+ "examples": [
+  [
+   "Per the memo, ENA's storage account will be REDUCED by 420,588 mmbtu!!!!!!",
+   "Per the memo, Nebra's Storage value is ideally dipped by 4 p.m. m.",
+   "Per the memo, Nebra's Storage value is ideally dipped by 4 p.m. m."
+  ],
+  [
+   "i am out of town.",
+   "i am out of town.",
+   "i am out of town."
+  ],
+  [
+   "Ideally, we would like a fast turnaround.",
+   "Ideally, we would like a fast turnaround.",
+   "Ideally, we would like a fast turnaround."
+  ],
+  [
+   "If you have any questions, please contact us at noc@paulhastings.com.",
+   "If you have any questions, please contact us at napsahhoehoehoehoehoehoehoehoehoehoehoehoehoehoehoeho",
+   "If you have any questions, please contact us at ##Pahhahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaha"
+  ],
+  [
+   "Would 100% recomend to others for a great service.",
+   "Would 100% recipient to others for a great service.",
+   "Would 100% recomend to others for a great service."
+  ],
+  [
+   "GREAT Store GREAT Service!",
+   "FREE Shipping Great Service!",
+   "GREAT Store GREAT Service!"
+  ],
+  [
+   "and the people are sweet :)",
+   "And the people are sweet :)",
+   "And the people are sweet :)"
+  ],
+  [
+   "The Dow topped out in February of 1966 at 995.",
+   "The Dow was picked up in February of 1966 at 997.",
+   "The Dow was picked out in February of 1966 at 995."
+  ],
+  [
+   "I have spoken with Mark Lay and he is interested.",
+   "I have spoken with Mark Lay and he is interested.",
+   "I have spoken with Mark Lay and he is interested."
+  ],
+  [
+   "No need to go to a grocer again.",
+   "No need to go to a grocer again.",
+   "No need to go to a grocer again."
+  ]
+ ]
+}

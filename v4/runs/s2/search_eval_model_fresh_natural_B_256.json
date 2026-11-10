@@ -1,0 +1,91 @@
+{
+ "split": "fresh_natural",
+ "n": 256,
+ "seed": 0,
+ "rounds": 20,
+ "sec_per_sentence": 0.838,
+ "mean_accepted_moves": 14.11,
+ "reverted": 0.0352,
+ "plain": {
+  "exact": 0.3594,
+  "exact_cased": 0.3047,
+  "word_acc": 0.7522,
+  "wer": 0.2386
+ },
+ "search": {
+  "exact": 0.8477,
+  "exact_cased": 0.7773,
+  "word_acc": 0.9405,
+  "wer": 0.0492
+ },
+ "plain_pert": {
+  "exact": 0.3281,
+  "exact_cased": 0.2812,
+  "word_acc": 0.7413,
+  "wer": 0.2646
+ },
+ "search_pert": {
+  "exact": 0.7852,
+  "exact_cased": 0.7305,
+  "word_acc": 0.9085,
+  "wer": 0.0703
+ },
+ "shuffled": {
+  "exact": 0.0117,
+  "exact_cased": 0.0078,
+  "word_acc": 0.0179,
+  "wer": 1.1769
+ },
+ "examples": [
+  [
+   "A la guerre c'est comme a la guerre!",
+   "A Lacia c'est such as a war!",
+   "A la guerre c'est comme a la guerre!"
+  ],
+  [
+   "\u201cThis store is great!!",
+   "\"This store is great!!!",
+   "\"This store is great!!"
+  ],
+  [
+   "Umir Hussain, 24, London E14",
+   "UMR Hussain, 24, City U18",
+   "Umir Hussain, 24, London E14"
+  ],
+  [
+   "I have used them once and will use them in the future.",
+   "I have used them ever and will use them in the future.",
+   "I have used them once and will use them in the future."
+  ],
+  [
+   "Well kept facility with friendly staff.",
+   "Well kept facility with friendly staff.",
+   "Well kept facility with friendly staff."
+  ],
+  [
+   "Quality of work is sufficient but not outstanding.",
+   "Quality of work is sufficient but not exceptional.",
+   "Quality of work is sufficient but not outstanding."
+  ],
+  [
+   "Greatly appreciate your prompt feedback to this inquiry.",
+   "Greatly appreciate your prompt response to this inquiry.",
+   "Greatly appreciate your prompt feedback to this inquiry."
+  ],
+  [
+   "Posted by Hidden Nook to Hidden Nook at 2/15/2005 05:12:00 PM",
+   "Posted by Detective NON to Maggie Nok at 5/07/06/06/06/06/06/06/06",
+   "Posted by Hidden Noo to Hidden Nook at 2:05/06/06/00:00"
+  ],
+  [
+   "whatever, you're the perverted old man.",
+   "All, you're the perverted old man.",
+   "Whatever, you're the perverted old man."
+  ],
+  [
+   "Houseboat in Kerala is a good option for you, all the best!!!",
+   "Houseboat in Kerala is a good option for you, all the more!",
+   "Houseboat in Kerala is a good option for you, all the best!!!"
+  ]
+ ]
+}

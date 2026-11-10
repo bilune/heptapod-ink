@@ -1,0 +1,91 @@
+{
+ "split": "fresh_random",
+ "n": 256,
+ "seed": 0,
+ "rounds": 20,
+ "sec_per_sentence": 0.901,
+ "mean_accepted_moves": 16.27,
+ "reverted": 0.0703,
+ "plain": {
+  "exact": 0.1172,
+  "exact_cased": 0.1172,
+  "word_acc": 0.4472,
+  "wer": 0.5387
+ },
+ "search": {
+  "exact": 0.543,
+  "exact_cased": 0.543,
+  "word_acc": 0.7798,
+  "wer": 0.1951
+ },
+ "plain_pert": {
+  "exact": 0.1016,
+  "exact_cased": 0.1016,
+  "word_acc": 0.4233,
+  "wer": 0.5607
+ },
+ "search_pert": {
+  "exact": 0.4883,
+  "exact_cased": 0.4883,
+  "word_acc": 0.7196,
+  "wer": 0.2485
+ },
+ "shuffled": {
+  "exact": 0.0195,
+  "exact_cased": 0.0195,
+  "word_acc": 0.0245,
+  "wer": 1.1883
+ },
+ "examples": [
+  [
+   "shanghai crawled president sever greased sweaty that ferociously ribs",
+   "stefana creeped president sever nails smelly that gothic ribs",
+   "shanghai crawled president sever messyly that steamed sailor"
+  ],
+  [
+   "his video just show mobile",
+   "his video just show mobile",
+   "his video just show mobile"
+  ],
+  [
+   "told box late denying copy only feeds no",
+   "told box late denying copy neither feeds no",
+   "told box late denying copy only feeds no"
+  ],
+  [
+   "funnel stun beverage my rays intimate",
+   "funnel stun beverage my rays intimate",
+   "funnel stun beverage my rays intimate"
+  ],
+  [
+   "pulls shows want learned intersection look mr",
+   "pulls shows tell learn intersection look mr",
+   "pulls shows want learned intersection look mr"
+  ],
+  [
+   "obviously did sinhalese let far small gunter arabia",
+   "obviously did sinhilf let far far grow gun arabia",
+   "obviously did sinhilal let far smallest gunter arabia"
+  ],
+  [
+   "moderate thanking vulgar crimes",
+   "reasonable cheering vulgar crimes",
+   "moderate thanking vulgar victims"
+  ],
+  [
+   "spewed world year lot prioritize basement tempered leaving",
+   "sprained world life really prioritize basement tempered leaving",
+   "spewed world year lot prioritize basement tempered leaving"
+  ],
+  [
+   "ahmad bullshitting rewritten rapidly evergreen saint motivator hurry",
+   "ahmad bulljab rephrase fast beetles man fascinated aggressive",
+   "ahmad bullasia sitting rewritten hectic sincere megaloquent motivator"
+  ],
+  [
+   "you attracted vie east",
+   "you attracted vie east",
+   "you attracted vie east"
+  ]
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "locked_natural": {
+  "n": 2000,
+  "sha256": "271517128624246cf40f6fe0b1ad3658b88402188c9326eb5ee145747f293b57"
+ },
+ "locked_random": {
+  "n": 2000,
+  "sha256": "0ee4c6e6c90f62bc076451f5d83823a15cfc88870dc641fb6829cacd31826e8a"
+ },
+ "locked_uniform10": {
+  "n": 1000,
+  "sha256": "720aaae52b56b3e4439d3440522eb3d1e81daf23b2df4fc9b638242af7ea16e4"
+ }
+}

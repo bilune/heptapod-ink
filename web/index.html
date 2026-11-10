@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Heptapod Ink</title>
+<style>
+:root{--bg:#f7f6f2;--card:#fff;--ink:#1d1c1a;--muted:#6b6862;--line:#e4e1da;--a:#2f6fb3;--ok:#2e8a5e;--bad:#b3261e}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--bg:#151514;--card:#1f1e1c;--ink:#ecebe7;--muted:#a19d95;--line:#33312e;--a:#6ea8e6;--ok:#5cc493;--bad:#ef8a80}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 -apple-system,system-ui,sans-serif}
+main{max-width:760px;margin:0 auto;padding:24px 16px 40px}h1{font-size:22px;margin:0 0 4px}.sub{color:var(--muted);font-size:14px;margin:0 0 16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px;margin-bottom:14px}
+.row{display:flex;gap:8px;flex-wrap:wrap}input[type=text]{flex:1;min-width:220px;font:inherit;padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:var(--bg);color:var(--ink)}
+button{font:inherit;padding:10px 16px;border-radius:10px;border:1px solid var(--a);background:var(--a);color:#fff;cursor:pointer}button:disabled{opacity:.5;cursor:default}
+.ring{display:block;width:100%;max-width:432px;aspect-ratio:1;margin:12px auto;background:#fff;border-radius:10px}
+.read{font-size:20px;text-align:center;margin:6px 0}.ok{color:var(--ok)}.bad{color:var(--bad)}
+.k{color:var(--muted);font-size:13px;text-align:center}.drop{border:1px dashed var(--line);border-radius:10px;padding:14px;text-align:center;color:var(--muted);cursor:pointer}
+footer{color:var(--muted);font-size:12px;margin-top:18px}
+</style>
+</head>
+<body><main>
+<h1>Heptapod Ink</h1>
+<p class="sub">Type an English sentence (up to 12 words). The writer turns it into a ring of ink, rereads it and fixes it until the reader understands it, and the reader then reads it from the image alone. Everything runs on your device (on the GPU if your browser supports WebGPU).</p>
+<div class="card">
+  <div class="row"><input id="text" type="text" value="Hello, earthling." maxlength="120"><button id="go" disabled>Loading models…</button></div>
+  <p class="k" id="loading"></p>
+  <canvas id="ring" class="ring" width="288" height="288"></canvas>
+  <p class="k" id="stage"></p>
+  <p class="read" id="read"></p>
+  <p class="k" id="plain"></p>
+  <p class="k" id="info"></p>
+</div>
+<div class="card">
+  <div class="drop" id="drop">Or drop a ring image (PNG) here for the reader to read</div>
+  <input id="file" type="file" accept="image/*" hidden>
+</div>
+<footer>Ink derived from the <i>Arrival</i> (2016) logograms by Martine Bertrand, released by Wolfram Research under CC BY-NC 4.0; marks cut and modified. Non-commercial. Not affiliated with Paramount or the filmmakers.</footer>
+</main>
+<script src="https://cdn.jsdelivr.net/npm/onnxruntime-web@1.20.1/dist/ort.webgpu.min.js"></script>
+<script type="module" src="app.js"></script>
+</body></html>

@@ -1,0 +1,91 @@
+{
+ "split": "dev",
+ "n": 256,
+ "seed": 0,
+ "rounds": 20,
+ "sec_per_sentence": 0.392,
+ "mean_accepted_moves": 7.64,
+ "reverted": 0.0469,
+ "plain": {
+  "exact": 0.7109,
+  "exact_cased": 0.7109,
+  "word_acc": 0.928,
+  "wer": 0.0655
+ },
+ "search": {
+  "exact": 0.9844,
+  "exact_cased": 0.9844,
+  "word_acc": 0.9958,
+  "wer": 0.0036
+ },
+ "plain_pert": {
+  "exact": 0.6953,
+  "exact_cased": 0.6953,
+  "word_acc": 0.925,
+  "wer": 0.0661
+ },
+ "search_pert": {
+  "exact": 0.9609,
+  "exact_cased": 0.9609,
+  "word_acc": 0.9869,
+  "wer": 0.0089
+ },
+ "shuffled": {
+  "exact": 0.0273,
+  "exact_cased": 0.0273,
+  "word_acc": 0.05,
+  "wer": 1.1131
+ },
+ "examples": [
+  [
+   "Tom was pursued by mercenaries through the woods.",
+   "Tom was pursued by mercenaries through the woods.",
+   "Tom was pursued by mercenaries through the woods."
+  ],
+  [
+   "Ziri is very disrespectful.",
+   "Ziri is very disrespectful.",
+   "Ziri is very disrespectful."
+  ],
+  [
+   "Tom never kisses me.",
+   "Tom never kisses me.",
+   "Tom never kisses me."
+  ],
+  [
+   "I was left speechless.",
+   "I was left speechless.",
+   "I was left speechless."
+  ],
+  [
+   "He went to meet Pizarro and twenty of his men.",
+   "He went to meet Piedro and 15 of his men.",
+   "He went to meet Pizarro and twenty men."
+  ],
+  [
+   "I admitted that I didn't do what I promised to do.",
+   "I confess that I didn't do what I promised to do.",
+   "I admitted that I didn't do what I promised to do."
+  ],
+  [
+   "He won a free car.",
+   "He won a free car.",
+   "He won a free car."
+  ],
+  [
+   "Sami got the message.",
+   "Sami got the message.",
+   "Sami got the message."
+  ],
+  [
+   "I felt a little disappointed.",
+   "I felt a little disappointed.",
+   "I felt a little disappointed."
+  ],
+  [
+   "I always listen to you.",
+   "I always listen to it.",
+   "I always listen to you."
+  ]
+ ]
+}

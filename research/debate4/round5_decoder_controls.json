@@ -1,0 +1,13 @@
+{
+  "partial_after_encoders_piece_counts_role": 0.5420092977568404,
+  "wordquad_cluster_ci95": [
+    0.4416533087899543,
+    0.6170377752831906
+  ],
+  "decoder_minus_base_rho_difference_ci95": [
+    0.058643362969156905,
+    0.16617117650918842
+  ],
+  "n_word_quadruples": 24,
+  "elapsed_seconds": 2.474736457999825
+}

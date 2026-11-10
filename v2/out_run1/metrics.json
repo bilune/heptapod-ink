@@ -1,0 +1,130 @@
+{
+  "setup": {
+    "steps": 3000,
+    "batch": 128,
+    "rings": 341,
+    "marks": 83,
+    "slots": 12,
+    "target_ink": 0.0548,
+    "ink_weight": 1.0
+  },
+  "train_meanings_full_rotation": {
+    "sentence_exact": 0.0998,
+    "subject": 0.1995,
+    "verb": 0.6407,
+    "object": 0.8333,
+    "tense": 0.9928,
+    "polarity": 0.9988
+  },
+  "held_out_triples_full_rotation": {
+    "sentence_exact": 0.0081,
+    "subject": 0.0104,
+    "verb": 0.4317,
+    "object": 0.7951,
+    "tense": 0.9919,
+    "polarity": 0.9988
+  },
+  "topographic_similarity": {
+    "real": 0.2456,
+    "shuffled_baseline": -0.0126
+  },
+  "vocabulary": {
+    "distinct_ring_segments": 131,
+    "distinct_marks": 68,
+    "gap_share": 0.031,
+    "marks_per_logogram": 11.42
+  },
+  "history": [
+    {
+      "step": 1,
+      "loss": 7.186,
+      "ink": 0.1016,
+      "tau": 1.999,
+      "rotation_deg": 0
+    },
+    {
+      "step": 250,
+      "loss": 5.1179,
+      "ink": 0.0582,
+      "tau": 1.782,
+      "rotation_deg": 30
+    },
+    {
+      "step": 500,
+      "loss": 4.2281,
+      "ink": 0.0619,
+      "tau": 1.587,
+      "rotation_deg": 60
+    },
+    {
+      "step": 750,
+      "loss": 4.6245,
+      "ink": 0.0729,
+      "tau": 1.414,
+      "rotation_deg": 90
+    },
+    {
+      "step": 1000,
+      "loss": 3.808,
+      "ink": 0.0735,
+      "tau": 1.26,
+      "rotation_deg": 120
+    },
+    {
+      "step": 1250,
+      "loss": 3.4034,
+      "ink": 0.073,
+      "tau": 1.122,
+      "rotation_deg": 150
+    },
+    {
+      "step": 1500,
+      "loss": 3.1899,
+      "ink": 0.0721,
+      "tau": 1.0,
+      "rotation_deg": 180
+    },
+    {
+      "step": 1750,
+      "loss": 3.0651,
+      "ink": 0.0684,
+      "tau": 0.891,
+      "rotation_deg": 180
+    },
+    {
+      "step": 2000,
+      "loss": 2.9688,
+      "ink": 0.0702,
+      "tau": 0.794,
+      "rotation_deg": 180
+    },
+    {
+      "step": 2250,
+      "loss": 2.9566,
+      "ink": 0.0642,
+      "tau": 0.707,
+      "rotation_deg": 180
+    },
+    {
+      "step": 2500,
+      "loss": 2.8526,
+      "ink": 0.0647,
+      "tau": 0.63,
+      "rotation_deg": 180
+    },
+    {
+      "step": 2750,
+      "loss": 2.8387,
+      "ink": 0.0699,
+      "tau": 0.561,
+      "rotation_deg": 180
+    },
+    {
+      "step": 3000,
+      "loss": 2.8831,
+      "ink": 0.0623,
+      "tau": 0.5,
+      "rotation_deg": 180
+    }
+  ]
+}

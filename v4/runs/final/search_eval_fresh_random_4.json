@@ -1,0 +1,61 @@
+{
+ "split": "fresh_random",
+ "n": 4,
+ "seed": 0,
+ "rounds": 3,
+ "sec_per_sentence": 1.717,
+ "mean_accepted_moves": 3.0,
+ "reverted": 0.0,
+ "plain": {
+  "exact": 0.5,
+  "exact_cased": 0.5,
+  "word_acc": 0.7857,
+  "wer": 0.2143
+ },
+ "search": {
+  "exact": 0.75,
+  "exact_cased": 0.75,
+  "word_acc": 0.75,
+  "wer": 0.1786
+ },
+ "plain_pert": {
+  "exact": 0.5,
+  "exact_cased": 0.5,
+  "word_acc": 0.7857,
+  "wer": 0.2143
+ },
+ "search_pert": {
+  "exact": 0.75,
+  "exact_cased": 0.75,
+  "word_acc": 0.8214,
+  "wer": 0.1786
+ },
+ "shuffled": {
+  "exact": 0.75,
+  "exact_cased": 0.75,
+  "word_acc": 0.75,
+  "wer": 0.1786
+ },
+ "examples": [
+  [
+   "shanghai crawled president sever greased sweaty that ferociously ribs",
+   "stefana creeped president sever nails smelly that gothic ribs",
+   "stefana creeped president sever messiah that go ribs"
+  ],
+  [
+   "his video just show mobile",
+   "his video just show mobile",
+   "his video just show mobile"
+  ],
+  [
+   "told box late denying copy only feeds no",
+   "told box late denying copy neither feeds no",
+   "told box late denying copy only feeds no"
+  ],
+  [
+   "funnel stun beverage my rays intimate",
+   "funnel stun beverage my rays intimate",
+   "funnel stun beverage my rays intimate"
+  ]
+ ]
+}

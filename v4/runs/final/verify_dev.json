@@ -1,0 +1,13 @@
+{
+ "split": "dev",
+ "n": 3000,
+ "beam": 32,
+ "greedy": 0.6427,
+ "beam_top1": 0.652,
+ "gold_in_candidates": 0.905,
+ "verified": 0.8883,
+ "any_match": 0.9077,
+ "multiple_matches": 0.22,
+ "false_match": 0.0193,
+ "verified_word_acc": 0.9436
+}

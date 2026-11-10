@@ -1,0 +1,22 @@
+Choose **(a): wide VQ initialized from a working continuous model**, with an early rejection gate. This is my best budgeted experiment, not an established recipe for these targets. The measurements invalidate my earlier confidence in the categorical schedule; another long soft phase risks repeating its analog-information shortcut.
+
+Use 36 position-specific codebooks, each 81×256. Position-specific books avoid spending centroids on differences between slot positions; they still transmit exactly one of 81 marks per slot. Nominal capacity remains `36 log2(81) ≈ 228 bits`. Two nine-entry books also give 81 combinations, not extra capacity; larger residual codes require additional observable symbols. Defer geometry changes.
+
+Keep the existing 256-wide slot/adapter transformers. Replace the writer head with a 256-wide output; feed quantized vectors directly into the adapter before its positional embeddings. Both symbolic and visual readers must use the same position-specific books: `h_s = Σ_k p_s(k) E_s[k]`. Retain a fixed, explicit code-index→physical-mark mapping.
+
+Train continuous first, with **`alpha=0`**. In this file, `corrupt()` replaces continuous vectors with hard symbol targets whenever enabled; even `noise=0` is not a continuous control otherwise. Remove silent 40-token truncation or report overflow failures.
+
+Initialize each book with k-means on its slot’s activations from 2,048 training sentences, without dropout. Then use nearest-neighbor assignments and `z_ST = z + stopgrad(E[k]−z)`: **hard forward from the first VQ update**, no interpolation bypass. Use text CE plus `0.25 mean((z−stopgrad(E[k]))²)`, EMA centroid updates with decay .99, and reseed entries unused for 200 updates from high-error training vectors. Monitor activation scale and per-slot usage; aggregate “marks used” hides collapsed slots. STE and commitment follow [VQ-VAE](https://arxiv.org/abs/1711.00937); this initialization and schedule are engineering proposals.
+
+AdamW: new modules 3e−4, pretrained weights 2e−5, weight decay .01, gradient clipping 1, batch 128, BF16 with FP32 distances/EMA. Start with 50% fresh random combinations; return to 20% only after random reconstruction passes its gate. Prefix dropout .15. Initially no symbol corruption; after hard decoding works, ramp confusion sampling `alpha` from 0→1 over 500 updates. Here alpha=1 means the measured channel, not replacing every symbol incorrectly.
+
+The slots4 result implicates optimization and representation geometry, not proven discrete capacity failure. Its input Jacobian has rank at most four per slot, and tanh can saturate; slots256 supplies many more gradient directions. Continuous scalars have no fixed bit capacity. [FSQ’s successes](https://arxiv.org/abs/2309.15505) do not establish learnability here. Removing the final LayerNorm tests neither rank nor saturation.
+
+**Local falsification, nine-minute wall cap:** resume the measured slots256 checkpoint; cache encoder states. Spend one minute initializing VQ and a rank-four linear squeeze/expansion via PCA; three minutes adapting each branch on identical random batches; reserve two minutes for greedy evaluation on the same 128 held-out combinations. Disable tanh in the rank-four branch. Reject VQ for this budget if it retains <50% of the continuous baseline’s word accuracy and hard CE does not improve. Rank-four recovery implicates learning from scratch/tanh; failure remains inconclusive about capacity. Without the continuous checkpoint, this short test cannot reliably falsify VQ. This is a proposed check, not a performed experiment.
+
+**H100: cap allocation at 170 minutes, including evaluation/startup; stop sooner at $13 actual spend.** Gates are conservative heuristics:
+
+- 0–30 min: continuous training. Require ≥60% random dev word accuracy; otherwise stop.
+- 30–90 min: VQ. Stop after 20 minutes if random word accuracy remains <10% without improvement. Before vision require clean natural ≥40% exact/70% word and random ≥40% word, plus acceptable measured-channel decoding.
+- 90–150 min: freeze writer/books; reuse trained eyes, optimize slot CE plus text CE, decoder LR 1e−5 with 20% clean replay.
+- 150–170 min: verify actual rendered/PNG decoding, shuffled-image controls, and all three requested dev thresholds; select on dev, test once. At 91% independent slot accuracy, all-correct codes occur only ~3.4% of the time—text correction is essential. Report failure if targets miss; do not spend the remainder restarting architectures.

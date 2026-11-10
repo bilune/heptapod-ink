@@ -1,0 +1,27 @@
+W1109 21:00:37.332000 63871 torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+== locked_natural 2000
+  plain        exact  33.5 CI(31.4, 35.5)  cased  32.6  words  73.8  WER  23.1
+  search       exact  81.0 CI(79.2, 82.7)  cased  80.5  words  92.9  WER   5.9
+  search_pert  exact  75.5 CI(73.6, 77.4)  cased  75.1  words  90.2  WER   8.0
+  shuffled     exact   1.2 CI(0.8, 1.8)  cased   1.2  words   2.4  WER 116.6
+  reread exact by corpus: {'gum': (78.6, 935), 'lines': (86.3, 797), 'partut': (80.5, 82), 'pud': (70.4, 186)}
+  reread exact by length: {'3-5': (94.4, 498), '6-8': (87.8, 654), '9-12': (67.9, 848)}
+  reread errors (cased): {'other words': 129, 'has names/caps': 155, 'has numbers': 37, 'only punctuation/quotes': 59, 'only case': 10} of 2000
+    We held hearings, called witnesses, and subpoenaed documents.  =>  We held hearings, called witnesses, and subpoed documents.
+    Coron is in the province of Palawan, Philippines on Busuanga Island.  =>  Coron is in the province of Palaghan, districts on Babuanga Island.
+    What was it then that hooped together ordinary night with infinity?  =>  What was it then that hooper together like night for infinity?
+    It was this that constellated my future.  =>  It was here that constellated my future.
+    This city-state emerged in the same period as Sukhothai.  =>  Some city-state emerged in the same period as Sukhothia.
+    Arash Javanbakht is Assistant Professor of Psychiatry, Wayne State University.  =>  Arash Javan Bakhn is Assistant Professor of Psychiatry, Wayne State University.
+    One way to personalize a joke is to change the ending. [5]  =>  One way to personalize a joke is to change the ending as [5].
+    I daren't say dine – we're homeless, you know...  =>  I daren't say floor – we're homeless, you know...
+== locked_random 2000
+  plain        exact   4.1 CI(3.3, 5.1)  cased   0.5  words  31.1  WER  67.8
+  search       exact  36.8 CI(34.7, 38.9)  cased  20.6  words  61.3  WER  34.5
+  search_pert  exact  29.8 CI(27.8, 31.8)  cased  17.2  words  56.0  WER  40.0
+  shuffled     exact   0.6 CI(0.3, 1.0)  cased   0.3  words   0.9  WER 117.3
+== locked_uniform10 1000
+  plain        exact   0.0 CI(0.0, 0.4)  cased   0.0  words   6.3  WER 100.7
+  search       exact   0.0 CI(0.0, 0.4)  cased   0.0  words  17.3  WER  82.8
+  search_pert  exact   0.0 CI(0.0, 0.4)  cased   0.0  words  14.8  WER  87.7
+  shuffled     exact   0.0 CI(0.0, 0.4)  cased   0.0  words   0.3  WER 101.7

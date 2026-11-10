@@ -1,0 +1,30 @@
+# Environment
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Model weights and exports (published on Hugging Face, see scripts/download_models.sh)
+*.pt
+*.onnx
+web/models/
+hf/build/
+
+# External inputs (fetched by scripts/fetch_data.sh)
+reference/logograms/
+research/repos/
+research/papers/
+research/tatoeba/
+research/ud_ewt/
+research/ud_locked/
+v3/data/
+# big training splits (on Hugging Face under data/); exam panels stay in git
+v3/data_tatoeba/train.json
+v3/data_tatoeba/mixed_train.json
+v3/data_tatoeba/mixed_val.json
+
+# Large intermediate arrays and tool logs
+research/debate4/round5_ring.npz
+research/debate4/round5_base.npz
+research/**/.*.log
+*.log

@@ -1,0 +1,305 @@
+{
+  "setup": {
+    "steps": 8000,
+    "batch": 128,
+    "rings": 32,
+    "marks": 83,
+    "slots": 12,
+    "target_ink": 0.0548,
+    "ink_weight": 1.0,
+    "marks_target": 3.5,
+    "mark_weight": 0.5
+  },
+  "train_meanings_full_rotation": {
+    "sentence_exact": 0.8231,
+    "subject": 0.9343,
+    "verb": 0.96,
+    "object": 0.9803,
+    "tense": 0.9359,
+    "polarity": 0.9653
+  },
+  "held_out_triples_full_rotation": {
+    "sentence_exact": 0.5683,
+    "subject": 0.7859,
+    "verb": 0.9097,
+    "object": 0.9097,
+    "tense": 0.875,
+    "polarity": 0.9201
+  },
+  "topographic_similarity": {
+    "real": 0.3689,
+    "shuffled_baseline": -0.0019
+  },
+  "vocabulary": {
+    "distinct_ring_segments": 17,
+    "distinct_marks": 22,
+    "gap_share": 0.0,
+    "marks_per_logogram": 2.99
+  },
+  "history": [
+    {
+      "step": 1,
+      "loss": 7.236,
+      "ink": 0.0985,
+      "marks": 11.85,
+      "tau": 2.0,
+      "rotation_deg": 0
+    },
+    {
+      "step": 250,
+      "loss": 5.3414,
+      "ink": 0.0477,
+      "marks": 0.53,
+      "tau": 1.915,
+      "rotation_deg": 11
+    },
+    {
+      "step": 500,
+      "loss": 1.3029,
+      "ink": 0.0618,
+      "marks": 3.93,
+      "tau": 1.834,
+      "rotation_deg": 22
+    },
+    {
+      "step": 750,
+      "loss": 0.8586,
+      "ink": 0.0572,
+      "marks": 3.7,
+      "tau": 1.756,
+      "rotation_deg": 34
+    },
+    {
+      "step": 1000,
+      "loss": 0.6114,
+      "ink": 0.0593,
+      "marks": 3.92,
+      "tau": 1.682,
+      "rotation_deg": 45
+    },
+    {
+      "step": 1250,
+      "loss": 0.4564,
+      "ink": 0.0546,
+      "marks": 3.7,
+      "tau": 1.61,
+      "rotation_deg": 56
+    },
+    {
+      "step": 1500,
+      "loss": 0.5535,
+      "ink": 0.0567,
+      "marks": 3.83,
+      "tau": 1.542,
+      "rotation_deg": 68
+    },
+    {
+      "step": 1750,
+      "loss": 0.5633,
+      "ink": 0.0557,
+      "marks": 3.81,
+      "tau": 1.477,
+      "rotation_deg": 79
+    },
+    {
+      "step": 2000,
+      "loss": 0.2609,
+      "ink": 0.0567,
+      "marks": 3.95,
+      "tau": 1.414,
+      "rotation_deg": 90
+    },
+    {
+      "step": 2250,
+      "loss": 0.5734,
+      "ink": 0.063,
+      "marks": 4.38,
+      "tau": 1.354,
+      "rotation_deg": 101
+    },
+    {
+      "step": 2500,
+      "loss": 0.282,
+      "ink": 0.0579,
+      "marks": 4.1,
+      "tau": 1.297,
+      "rotation_deg": 112
+    },
+    {
+      "step": 2750,
+      "loss": 0.463,
+      "ink": 0.0533,
+      "marks": 3.7,
+      "tau": 1.242,
+      "rotation_deg": 124
+    },
+    {
+      "step": 3000,
+      "loss": 1.1136,
+      "ink": 0.0605,
+      "marks": 4.07,
+      "tau": 1.189,
+      "rotation_deg": 135
+    },
+    {
+      "step": 3250,
+      "loss": 0.2408,
+      "ink": 0.0579,
+      "marks": 3.98,
+      "tau": 1.139,
+      "rotation_deg": 146
+    },
+    {
+      "step": 3500,
+      "loss": 0.9845,
+      "ink": 0.0608,
+      "marks": 4.05,
+      "tau": 1.091,
+      "rotation_deg": 158
+    },
+    {
+      "step": 3750,
+      "loss": 1.4123,
+      "ink": 0.0567,
+      "marks": 3.78,
+      "tau": 1.044,
+      "rotation_deg": 169
+    },
+    {
+      "step": 4000,
+      "loss": 0.5571,
+      "ink": 0.0594,
+      "marks": 3.85,
+      "tau": 1.0,
+      "rotation_deg": 180
+    },
+    {
+      "step": 4250,
+      "loss": 0.4946,
+      "ink": 0.0565,
+      "marks": 3.64,
+      "tau": 0.958,
+      "rotation_deg": 180
+    },
+    {
+      "step": 4500,
+      "loss": 0.2601,
+      "ink": 0.0566,
+      "marks": 3.57,
+      "tau": 0.917,
+      "rotation_deg": 180
+    },
+    {
+      "step": 4750,
+      "loss": 0.4429,
+      "ink": 0.052,
+      "marks": 3.28,
+      "tau": 0.878,
+      "rotation_deg": 180
+    },
+    {
+      "step": 5000,
+      "loss": 0.6891,
+      "ink": 0.0555,
+      "marks": 3.61,
+      "tau": 0.841,
+      "rotation_deg": 180
+    },
+    {
+      "step": 5250,
+      "loss": 1.0032,
+      "ink": 0.0587,
+      "marks": 3.81,
+      "tau": 0.805,
+      "rotation_deg": 180
+    },
+    {
+      "step": 5500,
+      "loss": 1.0058,
+      "ink": 0.051,
+      "marks": 3.09,
+      "tau": 0.771,
+      "rotation_deg": 180
+    },
+    {
+      "step": 5750,
+      "loss": 0.9209,
+      "ink": 0.0556,
+      "marks": 3.35,
+      "tau": 0.738,
+      "rotation_deg": 180
+    },
+    {
+      "step": 6000,
+      "loss": 0.9675,
+      "ink": 0.0545,
+      "marks": 3.2,
+      "tau": 0.707,
+      "rotation_deg": 180
+    },
+    {
+      "step": 6250,
+      "loss": 0.6996,
+      "ink": 0.053,
+      "marks": 3.23,
+      "tau": 0.677,
+      "rotation_deg": 180
+    },
+    {
+      "step": 6500,
+      "loss": 0.8783,
+      "ink": 0.051,
+      "marks": 3.02,
+      "tau": 0.648,
+      "rotation_deg": 180
+    },
+    {
+      "step": 6750,
+      "loss": 0.7715,
+      "ink": 0.0493,
+      "marks": 2.9,
+      "tau": 0.621,
+      "rotation_deg": 180
+    },
+    {
+      "step": 7000,
+      "loss": 0.7114,
+      "ink": 0.0526,
+      "marks": 3.18,
+      "tau": 0.595,
+      "rotation_deg": 180
+    },
+    {
+      "step": 7250,
+      "loss": 0.698,
+      "ink": 0.0507,
+      "marks": 2.9,
+      "tau": 0.569,
+      "rotation_deg": 180
+    },
+    {
+      "step": 7500,
+      "loss": 0.5142,
+      "ink": 0.0515,
+      "marks": 2.98,
+      "tau": 0.545,
+      "rotation_deg": 180
+    },
+    {
+      "step": 7750,
+      "loss": 0.6576,
+      "ink": 0.0525,
+      "marks": 3.16,
+      "tau": 0.522,
+      "rotation_deg": 180
+    },
+    {
+      "step": 8000,
+      "loss": 0.5028,
+      "ink": 0.052,
+      "marks": 3.13,
+      "tau": 0.5,
+      "rotation_deg": 180
+    }
+  ]
+}

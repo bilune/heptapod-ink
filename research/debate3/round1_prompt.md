@@ -1,0 +1,8 @@
+Read research/debate3/context.md and the files it lists. You have live web search: use it. Find and read relevant papers and resources (learned discrete bottlenecks and codebooks: VQ-VAE, RVQ/SoundStream/EnCodec, FSQ, LFQ/MAGVIT-v2, BSQ, rotation trick for VQ gradients, SimVQ, codebook collapse fixes; emergent communication with discrete channels; neural compression of text with LM priors and arithmetic coding; learned image codecs / channel coding (deep JSCC, error-correcting codes learned end to end); semantic hashing; visual tokenizers; OCR-free reading; anything else useful). Think out of the box too: e.g. use the decoder LM as a prior for entropy coding of the code, allocate bits where the LM is uncertain (only send what the reader cannot predict), variable-length / content-adaptive slot use, larger alphabets via mark variants (inside/outside ring, mirror, scale, ink weight), soft/analog ink (grey level or thickness as continuous channel) since the eyes read 99%, test-time search in code space, training the writer through the eyes end to end, distillation from the 99% continuous model, etc.
+
+Write research/debate3/round1_codex.md (<=1,400 words):
+1. Diagnosis: where the bits are lost, with numbers from context; what limits random combos specifically.
+2. Ranked options (at least 6, including at least 2 unconventional): mechanism, evidence (cite papers with links), expected gain on random-combo word accuracy and natural exact (as guesses, say so), cost in H100 minutes, risk, how to falsify cheaply on the M4.
+3. Your recommended plan for three budget tiers (USD 5 / 10 / 20), each with stop rules.
+4. What you are unsure about.
+Be concrete, cite sources, no filler.

@@ -1,0 +1,22 @@
+# Pinned to the versions in the development venv (Python 3.13, macOS arm64).
+# Install: python -m venv .venv && .venv/bin/pip install -r requirements.txt
+# Optional cloud runs (v3/modal_app.py, v4/run_*.py): see requirements-modal.txt.
+
+# core: models, training, evaluation
+torch==2.15.0
+transformers==5.22.2
+tokenizers==0.23.3
+huggingface_hub==2.4.0
+numpy==2.5.4
+pillow==13.0.0
+scipy==1.18.1
+matplotlib==3.11.2
+
+# data preparation (v4/prep_mixed.py streams FineWeb/Wikipedia/CC-News) and probes
+datasets==5.1.0
+sentence-transformers==6.2.0
+
+# ONNX export (v4/export_web*.py, v4/export_search.py) and the parity checks
+onnx==1.23.2
+onnxscript==0.7.2
+onnxruntime==1.31.1

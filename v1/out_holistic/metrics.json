@@ -1,0 +1,126 @@
+{
+  "setup": {
+    "speaker": "holistic",
+    "steps": 3000,
+    "batch": 128,
+    "ink_cost": 2.0,
+    "decisive": 1.0,
+    "train_meanings": 1296,
+    "held_out_meanings": 0,
+    "chance_sentence_exact": 0.000772
+  },
+  "train_meanings_full_rotation": {
+    "sentence_exact": 0.9994,
+    "subject": 1.0,
+    "verb": 1.0,
+    "object": 0.9996,
+    "tense": 0.9998,
+    "polarity": 1.0
+  },
+  "topographic_similarity": {
+    "real": 0.3767,
+    "shuffled_baseline": 0.0224
+  },
+  "word_footprint": {
+    "subject": {
+      "ring_share": 0.764,
+      "ink_changed": 0.1643
+    },
+    "verb": {
+      "ring_share": 0.736,
+      "ink_changed": 0.1646
+    },
+    "object": {
+      "ring_share": 0.764,
+      "ink_changed": 0.1586
+    },
+    "tense": {
+      "ring_share": 0.736,
+      "ink_changed": 0.1511
+    },
+    "polarity": {
+      "ring_share": 0.75,
+      "ink_changed": 0.1515
+    }
+  },
+  "history": [
+    {
+      "step": 1,
+      "loss": 7.2687,
+      "ink": 0.2278,
+      "rotation_deg": 0
+    },
+    {
+      "step": 250,
+      "loss": 3.3425,
+      "ink": 0.2264,
+      "rotation_deg": 30
+    },
+    {
+      "step": 500,
+      "loss": 1.4789,
+      "ink": 0.2273,
+      "rotation_deg": 60
+    },
+    {
+      "step": 750,
+      "loss": 0.904,
+      "ink": 0.2225,
+      "rotation_deg": 90
+    },
+    {
+      "step": 1000,
+      "loss": 0.2521,
+      "ink": 0.2211,
+      "rotation_deg": 120
+    },
+    {
+      "step": 1250,
+      "loss": 0.1088,
+      "ink": 0.2161,
+      "rotation_deg": 150
+    },
+    {
+      "step": 1500,
+      "loss": 0.0917,
+      "ink": 0.2168,
+      "rotation_deg": 180
+    },
+    {
+      "step": 1750,
+      "loss": 0.0161,
+      "ink": 0.22,
+      "rotation_deg": 180
+    },
+    {
+      "step": 2000,
+      "loss": 0.018,
+      "ink": 0.2175,
+      "rotation_deg": 180
+    },
+    {
+      "step": 2250,
+      "loss": 0.0049,
+      "ink": 0.2127,
+      "rotation_deg": 180
+    },
+    {
+      "step": 2500,
+      "loss": 0.0035,
+      "ink": 0.2135,
+      "rotation_deg": 180
+    },
+    {
+      "step": 2750,
+      "loss": 0.005,
+      "ink": 0.2102,
+      "rotation_deg": 180
+    },
+    {
+      "step": 3000,
+      "loss": 0.0023,
+      "ink": 0.2153,
+      "rotation_deg": 180
+    }
+  ]
+}

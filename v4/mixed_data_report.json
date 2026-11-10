@@ -1,0 +1,28 @@
+{
+ "train": 500000,
+ "val": 4999,
+ "exact": 14666,
+ "tokenizer": 11054,
+ "dup": 136888,
+ "near": 10,
+ "fineweb_train": 275000,
+ "fineweb_docs": 96945,
+ "wikipedia_train": 75000,
+ "wikipedia_docs": 39313,
+ "news_train": 50000,
+ "news_docs": 38661,
+ "examples": [
+  "He was nice to me.",
+  "His films are accessible to the common man.",
+  "I am the first one to be disappointed with the results.",
+  "How long was each candle",
+  "I typically eat pretty plant based for my breakfast/lunch and snacks.",
+  "Link to the railway sections please.",
+  "MANAGED THROUGH ALL STAGES OF PRODUCTION",
+  "Sanchez homered two batters later against Erik Goeddel.",
+  "I am not a SW expert so I could be wrong.",
+  "OpenSees Days 2012",
+  "The ruling by U.S.",
+  "It says driving conditions are likely to be poor."
+ ]
+}

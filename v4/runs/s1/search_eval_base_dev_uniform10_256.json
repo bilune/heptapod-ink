@@ -1,0 +1,91 @@
+{
+ "split": "dev_uniform10",
+ "n": 256,
+ "seed": 0,
+ "rounds": 20,
+ "sec_per_sentence": 1.176,
+ "mean_accepted_moves": 17.54,
+ "reverted": 0.0586,
+ "plain": {
+  "exact": 0.0,
+  "exact_cased": 0.0,
+  "word_acc": 0.1137,
+  "wer": 0.8789
+ },
+ "search": {
+  "exact": 0.0,
+  "exact_cased": 0.0,
+  "word_acc": 0.2703,
+  "wer": 0.7051
+ },
+ "plain_pert": {
+  "exact": 0.0,
+  "exact_cased": 0.0,
+  "word_acc": 0.1094,
+  "wer": 0.8836
+ },
+ "search_pert": {
+  "exact": 0.0,
+  "exact_cased": 0.0,
+  "word_acc": 0.2488,
+  "wer": 0.7273
+ },
+ "shuffled": {
+  "exact": 0.0,
+  "exact_cased": 0.0,
+  "word_acc": 0.0027,
+  "wer": 1.0008
+ },
+ "examples": [
+  [
+   "tempo lenses pope assumptions unified mouse medications pollination pointer mockery",
+   "ice doors flashed think unauthorized dog pillage spotmarker figurine",
+   "tempo lenses jures believe unified robot pills pollination pointer joke"
+  ],
+  [
+   "fourth republicans fell dental plough comfy fostered depressive steampunk leanne",
+   "fourth republicans can tongue plucked enjoy beetles decast cauldron",
+   "fourth republicans go hair plough funniest deterrent gasped"
+  ],
+  [
+   "showcase dos leibniz schedule which plagiarizing boomed company polish facilities",
+   "exhibit dopes jebs arrangement palpable building revamped equipment facilities",
+   "showcase dos fianc\u00e9e schedule that plunging bruised company polish plans"
+  ],
+  [
+   "grant huh chaperones leopards pestle marksman informative schmuck protecting maneuvered",
+   "grant bringing chaperone rabbits pestle tape clerk wretched guarded watched",
+   "grant mighty devotees leopards pestle notes gentleman wretched avoiding robot"
+  ],
+  [
+   "juicy level pounding crafty texted questionnaire undisturbed mia transient domain",
+   "hungry acceleration pounding crafty worded caller lauren misled boundaries domain",
+   "juicy level looming crafty texted questionnaire laterter bipolar dictionary domain"
+  ],
+  [
+   "curves tantalizing thinning barium pinkish militarism hone vetoed cement drugs",
+   "curves deterrenting smashed ziri blacksmiths hysterical drew collagen",
+   "curves tantalizing ages barazoo symbol blacksmiths militarism huddled sandra cured"
+  ],
+  [
+   "insurgency extremists hypersonic conditioner autobiographical prettiest inhospitable forthcoming sweaty secretarial",
+   "insurmountable absorption oxygen vacuum motorcyclists insurmountable weathery secret",
+   "insurgency extremists slowed routine autobiography invisibility first sweaty spy"
+  ],
+  [
+   "paint learners shirtless impeccably blames charlotte banished freemason schizoaffective poker",
+   "portrait students dancely misrepresent blames charles hang loot mashax",
+   "paint must shirtless impenetrable blames charlotte hungary masha sneezed cheekness"
+  ],
+  [
+   "strengthening swordsman cock pointer rustling browser customers again accessible fanatical",
+   "growing swordsman cocker rustling screen dispatch now easily secular",
+   "strengthening swordsman cocker rustling browsing mail now easily chatty"
+  ],
+  [
+   "shabbos scroll defends cannibal startups maths pipeline bacterial regrettable deli",
+   "shabbos quick dodges cannibals start mechanics sewage gloomy spoilable",
+   "shabbos newspapers defends cannibals start maths sewage forgiven cook"
+  ]
+ ]
+}

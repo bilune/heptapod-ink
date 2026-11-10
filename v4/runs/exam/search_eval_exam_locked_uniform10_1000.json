@@ -1,0 +1,91 @@
+{
+ "split": "locked_uniform10",
+ "n": 1000,
+ "seed": 0,
+ "rounds": 20,
+ "sec_per_sentence": 1.132,
+ "mean_accepted_moves": 17.41,
+ "reverted": 0.15,
+ "plain": {
+  "exact": 0.0,
+  "exact_cased": 0.0,
+  "word_acc": 0.0634,
+  "wer": 1.0071
+ },
+ "search": {
+  "exact": 0.0,
+  "exact_cased": 0.0,
+  "word_acc": 0.1728,
+  "wer": 0.8285
+ },
+ "plain_pert": {
+  "exact": 0.0,
+  "exact_cased": 0.0,
+  "word_acc": 0.0577,
+  "wer": 1.0219
+ },
+ "search_pert": {
+  "exact": 0.0,
+  "exact_cased": 0.0,
+  "word_acc": 0.1476,
+  "wer": 0.8774
+ },
+ "shuffled": {
+  "exact": 0.0,
+  "exact_cased": 0.0,
+  "word_acc": 0.0033,
+  "wer": 1.0171
+ },
+ "examples": [
+  [
+   "discrimination smartest plundered spotify lows overcharged carnival karaoke homophones weird",
+   "Differenting colder plumage placely low-rised parking sat downs.",
+   "Particularly cooler plundered spotless lows and lows, caravans, too."
+  ],
+  [
+   "fragments drug experimentation teetotaller serves quantities stinking gnomes wrenched impulsively",
+   "Pixels drug experimentation tetratolerant products bindering clean sanding",
+   "Pixels drug experimentation tetratolerant products bindering clean sanding"
+  ],
+  [
+   "bluer taft undelivered eagerness chutzpah floral cheeping trill skated repapered",
+   "Bluer tac leveved wilked cynase saxophoned jidney.",
+   "Bluer tac leveved wilked cynase saxophoned jidney."
+  ],
+  [
+   "contractors raisins moved whispers refineries tycho swab indeed manikins tel",
+   "Ryan rivers moved swifts refineries tycoon virahhihihihihihihihihihihihihihihihihihihihihihihihi",
+   "contractors raisins went sensations refineries tycoon thompson mani"
+  ],
+  [
+   "smelt shouting twin boils rekindled homophobia notifications beeping classmates erupts",
+   "smt dialled Double Bottles re-opening anti-semitic Signed Signed Tests.",
+   "smelt shouting dual boils rekindled drugstore carded faults"
+  ],
+  [
+   "declutter smirked selfie hearsay appear grudges lobby spurs reigned begrudge",
+   "Dc lightingsmasked camera show show showurur halls lobbyed edgy.",
+   "Declutter sparked expert witness report is grubbs city's biggest deeds."
+  ],
+  [
+   "shaban alain amount smallpox prostrate snip tumblr nun ps scrapbook",
+   "shamaala and cash singleton porosre tase tase tase tase.",
+   "shaban alain amount 1poo service repaint amassas magazine"
+  ],
+  [
+   "do nighttime supervised equivalent unify king breach floors commanders unidentified",
+   "Do nightlight directing affordability only one kitty underwater attacks strikes' alarmed.",
+   "Do nighttime directing equivalent unsupported kirk district police's alerted"
+  ],
+  [
+   "plainclothes aromatherapy accomplice entirely enjoy warning grab computers assimilate centaur",
+   "Laclinee's healing process transpires exactly to ensure safety techniques as well as adversity.",
+   "Plainclothes aromatherapy practicum only enjoys first learning as a saxophonist"
+  ],
+  [
+   "aggressiveness enforcing regaled rectified tenses incitement wars lighters sidewalk interdict",
+   "Extremly sforking Genawing had ten percent in the Phoenix Diversion.",
+   "Awareness enforcing regaled riddles in incitement of wartimes"
+  ]
+ ]
+}

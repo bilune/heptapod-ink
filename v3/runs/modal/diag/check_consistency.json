@@ -1,0 +1,59 @@
+{
+ "anchor": "cake",
+ "contexts": 20,
+ "words_per_bucket": 12,
+ "buckets": {
+  "1-9": {
+   "within_word_jaccard": 0.159,
+   "between_word_jaccard_same_context": 0.103,
+   "avg_items_changed": 14.5,
+   "example_words": [
+    "casket",
+    "broker",
+    "notebook",
+    "stadium",
+    "turntable",
+    "parcel"
+   ]
+  },
+  "10-99": {
+   "within_word_jaccard": 0.187,
+   "between_word_jaccard_same_context": 0.121,
+   "avg_items_changed": 15.7,
+   "example_words": [
+    "prisoner",
+    "guard",
+    "bucket",
+    "radio",
+    "basket",
+    "champion"
+   ]
+  },
+  "100-999": {
+   "within_word_jaccard": 0.211,
+   "between_word_jaccard_same_context": 0.102,
+   "avg_items_changed": 16.3,
+   "example_words": [
+    "professor",
+    "house",
+    "dog",
+    "chair",
+    "cup",
+    "bat"
+   ]
+  },
+  "1000+": {
+   "within_word_jaccard": 0.168,
+   "between_word_jaccard_same_context": 0.077,
+   "avg_items_changed": 16.1,
+   "example_words": [
+    "donut",
+    "boy",
+    "girl",
+    "cat",
+    "cookie",
+    "table"
+   ]
+  }
+ }
+}

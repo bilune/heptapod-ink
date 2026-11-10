@@ -1,0 +1,135 @@
+{
+  "hypothesis": "Can a trained spatial operator manipulate 2D relational meaning and generalize to more entities without text tokens?",
+  "training_size": 4,
+  "training_updates": 900,
+  "learned_gate": {
+    "00": 0.0,
+    "01": 0.000142,
+    "10": 0.000137,
+    "11": 0.999667
+  },
+  "metrics": {
+    "in_distribution_4": {
+      "cell_accuracy": 1.0,
+      "matrix_exact_match": 1.0,
+      "f1": 1.0
+    },
+    "unseen_size_7": {
+      "cell_accuracy": 1.0,
+      "matrix_exact_match": 1.0,
+      "f1": 1.0
+    },
+    "unseen_size_12": {
+      "cell_accuracy": 1.0,
+      "matrix_exact_match": 1.0,
+      "f1": 1.0
+    },
+    "dense_world_7": {
+      "cell_accuracy": 1.0,
+      "matrix_exact_match": 1.0,
+      "f1": 1.0
+    },
+    "two_hops_composed_twice_7": {
+      "cell_accuracy": 1.0,
+      "matrix_exact_match": 1.0,
+      "f1": 1.0
+    }
+  },
+  "intermediary_identity_scramble_control": {
+    "cell_accuracy": 0.72776,
+    "matrix_exact_match": 0.002,
+    "f1": 0.57483
+  },
+  "history": [
+    {
+      "step": 1,
+      "loss": 0.747776
+    },
+    {
+      "step": 45,
+      "loss": 0.236566
+    },
+    {
+      "step": 90,
+      "loss": 0.028702
+    },
+    {
+      "step": 135,
+      "loss": 0.010392
+    },
+    {
+      "step": 180,
+      "loss": 0.005808
+    },
+    {
+      "step": 225,
+      "loss": 0.002062
+    },
+    {
+      "step": 270,
+      "loss": 0.002047
+    },
+    {
+      "step": 315,
+      "loss": 0.001176
+    },
+    {
+      "step": 360,
+      "loss": 0.001394
+    },
+    {
+      "step": 405,
+      "loss": 0.001224
+    },
+    {
+      "step": 450,
+      "loss": 0.000808
+    },
+    {
+      "step": 495,
+      "loss": 0.000798
+    },
+    {
+      "step": 540,
+      "loss": 0.000658
+    },
+    {
+      "step": 585,
+      "loss": 0.000632
+    },
+    {
+      "step": 630,
+      "loss": 0.000448
+    },
+    {
+      "step": 675,
+      "loss": 0.000473
+    },
+    {
+      "step": 720,
+      "loss": 0.000435
+    },
+    {
+      "step": 765,
+      "loss": 0.000335
+    },
+    {
+      "step": 810,
+      "loss": 0.000303
+    },
+    {
+      "step": 855,
+      "loss": 0.000305
+    },
+    {
+      "step": 900,
+      "loss": 0.000207
+    }
+  ],
+  "limitations": [
+    "Synthetic binary relations, not natural-language meanings.",
+    "The 2D relational grammar and aggregator are engineered, not discovered.",
+    "Radial drawings are a reversible visualization, not visual inputs to the trained model.",
+    "Heptapod B does not exist as a complete, learnable official grammar."
+  ]
+}

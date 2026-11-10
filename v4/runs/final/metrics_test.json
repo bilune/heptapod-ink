@@ -1,0 +1,146 @@
+{
+ "test": {
+  "visual": {
+   "exact": 0.6273,
+   "exact_cased": 0.6257,
+   "word_acc": 0.8823,
+   "wer": 0.1015,
+   "slot_acc": 0.9912
+  },
+  "symbolic": {
+   "exact": 0.648,
+   "exact_cased": 0.6467,
+   "word_acc": 0.8935,
+   "wer": 0.0936
+  },
+  "shuffled_image_control": {
+   "exact": 0.0,
+   "exact_cased": 0.0,
+   "word_acc": 0.0118,
+   "wer": 1.1548,
+   "slot_acc": 0.1542
+  },
+  "examples": [
+   [
+    "Which of your parents do you take after in character?",
+    "Which of your parents does you take after an artist?"
+   ],
+   [
+    "I apologise for misjudging you.",
+    "I apologise for misjudging you."
+   ],
+   [
+    "The dog breathed with difficulty.",
+    "The dog breathed with difficulty."
+   ],
+   [
+    "I'll call him on Friday.",
+    "I'll call him on Friday."
+   ],
+   [
+    "Benedito's spa has a private relaxation room.",
+    "Benedito's spa has a private massage room."
+   ],
+   [
+    "I told myself I wouldn't do this again.",
+    "I told me I wouldn't do this again."
+   ],
+   [
+    "Tom got to the hotel around 2:30.",
+    "Tom got to the house around 2:30."
+   ],
+   [
+    "She armed herself with a gun and a knife.",
+    "She armed herself with a gun and a knife."
+   ],
+   [
+    "I've wanted to do this for years.",
+    "I've wanted to do this for years."
+   ],
+   [
+    "In a quarter of an hour the sun will set.",
+    "In a fraction of an hour the sun will blow."
+   ],
+   [
+    "Can you please put the table against the wall?",
+    "Can you please put the table facing the wall?"
+   ],
+   [
+    "Tom told me that he thought that Mary was unmarried.",
+    "Tom told me that he thought that Mary was in Boston."
+   ]
+  ]
+ },
+ "test_random": {
+  "visual": {
+   "exact": 0.092,
+   "exact_cased": 0.092,
+   "word_acc": 0.4408,
+   "wer": 0.5433,
+   "slot_acc": 0.9805
+  },
+  "symbolic": {
+   "exact": 0.107,
+   "exact_cased": 0.107,
+   "word_acc": 0.4657,
+   "wer": 0.5178
+  },
+  "shuffled_image_control": {
+   "exact": 0.0039,
+   "exact_cased": 0.0039,
+   "word_acc": 0.006,
+   "wer": 1.201,
+   "slot_acc": 0.0616
+  },
+  "examples": [
+   [
+    "alone strap but",
+    "alone strap only"
+   ],
+   [
+    "end special a contractions kilowatts infidelity roberto",
+    "end special a depressions kilowatts infidelity roberto"
+   ],
+   [
+    "breathed graveyard bought a they highlighted supposed god",
+    "breathed graveyard investment aa highlight meant god"
+   ],
+   [
+    "income charge to sentences stop",
+    "income police to prisoners stopped"
+   ],
+   [
+    "taft skillful better flavorful yankev midori shellfish hopping",
+    "taiwan trainingly good tasteless yanni yew sunday skyrocketing kicking"
+   ],
+   [
+    "drives user unusual deacon lasted tormenting markets michael",
+    "sticks phone unusual condeached lasted torning markets michael"
+   ],
+   [
+    "emphasize triumph shove horrible marketplace cuddles species",
+    "emphasize triumph plate horrible marketplace cuddles species"
+   ],
+   [
+    "snooze clean request swedish player payphone sneakers shamed failed excites",
+    "snubbed clean response swedish manager buy internet jeans dropped blames"
+   ],
+   [
+    "evidence fish danger cobblestone gratitude across bins romanian bassoonist",
+    "testimony fish dangeroroskey appreciation farbs romans arabia songo"
+   ],
+   [
+    "unchecked win commercial really guitarist challenging",
+    "unchecked win internet really musicians challenging"
+   ],
+   [
+    "crouched stop popcorn abundantly",
+    "crouched stop flag abundantly"
+   ],
+   [
+    "gate looted knows",
+    "gate looted knows"
+   ]
+  ]
+ }
+}

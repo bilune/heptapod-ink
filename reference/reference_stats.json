@@ -1,0 +1,340 @@
+{
+  "summary": {
+    "ink": {
+      "median": 0.099,
+      "p10": 0.0626,
+      "p90": 0.1559
+    },
+    "ring_radius": {
+      "median": 0.5775,
+      "p10": 0.4103,
+      "p90": 0.7418
+    },
+    "ring_width": {
+      "median": 0.1086,
+      "p10": 0.0587,
+      "p90": 0.1558
+    },
+    "gap_share": {
+      "median": 0.5083,
+      "p10": 0.0222,
+      "p90": 0.6139
+    },
+    "cluster_share": {
+      "median": 0.0111,
+      "p10": 0.0,
+      "p90": 0.0517
+    },
+    "clusters": {
+      "median": 1.0,
+      "p10": 0.0,
+      "p90": 4.0
+    }
+  },
+  "per_image": {
+    "AbbotIsDead1.jpg": {
+      "ink": 0.10533523559570312,
+      "ring_radius": 0.44999999999999996,
+      "ring_width": 0.14085367888381853,
+      "gap_share": 0.55,
+      "cluster_share": 0.011111111111111112,
+      "clusters": 2
+    },
+    "Abbott1.jpg": {
+      "ink": 0.09716033935546875,
+      "ring_radius": 0.3675,
+      "ring_width": 0.18258443103729322,
+      "gap_share": 0.5,
+      "cluster_share": 0.0,
+      "clusters": 0
+    },
+    "AbbottChoosesSaveLouiseIan1.jpg": {
+      "ink": 0.14551162719726562,
+      "ring_radius": 0.6,
+      "ring_width": 0.15554617469842374,
+      "gap_share": 0.39444444444444443,
+      "cluster_share": 0.005555555555555556,
+      "clusters": 1
+    },
+    "BeforeAndAfter1.jpg": {
+      "ink": 0.14403915405273438,
+      "ring_radius": 0.6975,
+      "ring_width": 0.1435172078504758,
+      "gap_share": 0.022222222222222223,
+      "cluster_share": 0.0,
+      "clusters": 0
+    },
+    "Costello1.jpg": {
+      "ink": 0.09015274047851562,
+      "ring_radius": 0.5025,
+      "ring_width": 0.08090206157197194,
+      "gap_share": 0.5166666666666667,
+      "cluster_share": 0.03888888888888889,
+      "clusters": 4
+    },
+    "CowrittenLogogram1.jpg": {
+      "ink": 0.13958358764648438,
+      "ring_radius": 0.645,
+      "ring_width": 0.13690028773631757,
+      "gap_share": 0.005555555555555556,
+      "cluster_share": 0.0,
+      "clusters": 0
+    },
+    "Earth1.jpg": {
+      "ink": 0.16220855712890625,
+      "ring_radius": 0.6975,
+      "ring_width": 0.12659596500347647,
+      "gap_share": 0.10555555555555556,
+      "cluster_share": 0.03333333333333333,
+      "clusters": 3
+    },
+    "HepPurpEarth_1.jpg": {
+      "ink": 0.19872665405273438,
+      "ring_radius": 0.63,
+      "ring_width": 0.16513879593275274,
+      "gap_share": 0.16666666666666666,
+      "cluster_share": 0.011111111111111112,
+      "clusters": 2
+    },
+    "HepReply1.jpg": {
+      "ink": 0.13995361328125,
+      "ring_radius": 0.5775,
+      "ring_width": 0.1529016200691339,
+      "gap_share": 0.0,
+      "cluster_share": 0.0,
+      "clusters": 0
+    },
+    "HepWritesRealTime1.jpg": {
+      "ink": 0.13941192626953125,
+      "ring_radius": 0.7575,
+      "ring_width": 0.10993223281953196,
+      "gap_share": 0.12777777777777777,
+      "cluster_share": 0.0,
+      "clusters": 0
+    },
+    "Heptapod1.jpg": {
+      "ink": 0.05971527099609375,
+      "ring_radius": 0.48,
+      "ring_width": 0.07194465925746765,
+      "gap_share": 0.5611111111111111,
+      "cluster_share": 0.011111111111111112,
+      "clusters": 1
+    },
+    "Human1.jpg": {
+      "ink": 0.0720367431640625,
+      "ring_radius": 0.46499999999999997,
+      "ring_width": 0.08554628328205217,
+      "gap_share": 0.5833333333333334,
+      "cluster_share": 0.027777777777777776,
+      "clusters": 1
+    },
+    "Human_1.jpg": {
+      "ink": 0.06954193115234375,
+      "ring_radius": 0.4125,
+      "ring_width": 0.0980235633611527,
+      "gap_share": 0.6611111111111111,
+      "cluster_share": 0.005555555555555556,
+      "clusters": 1
+    },
+    "Humanity1.jpg": {
+      "ink": 0.06393814086914062,
+      "ring_radius": 0.4875,
+      "ring_width": 0.0744245433253492,
+      "gap_share": 0.6055555555555555,
+      "cluster_share": 0.016666666666666666,
+      "clusters": 2
+    },
+    "Ian1.jpg": {
+      "ink": 0.037029266357421875,
+      "ring_radius": 0.32999999999999996,
+      "ring_width": 0.08610177862803954,
+      "gap_share": 0.6333333333333333,
+      "cluster_share": 0.0,
+      "clusters": 0
+    },
+    "IanLouiseEatApple1.jpg": {
+      "ink": 0.15557479858398438,
+      "ring_radius": 0.6074999999999999,
+      "ring_width": 0.19068314127311317,
+      "gap_share": 0.5055555555555555,
+      "cluster_share": 0.0,
+      "clusters": 0
+    },
+    "IanLouiseMustGo1.jpg": {
+      "ink": 0.07321548461914062,
+      "ring_radius": 0.3225,
+      "ring_width": 0.14299980550674757,
+      "gap_share": 0.49444444444444446,
+      "cluster_share": 0.016666666666666666,
+      "clusters": 1
+    },
+    "ItWasntUs1.jpg": {
+      "ink": 0.08019638061523438,
+      "ring_radius": 0.705,
+      "ring_width": 0.058284280917442144,
+      "gap_share": 0.5611111111111111,
+      "cluster_share": 0.06111111111111111,
+      "clusters": 7
+    },
+    "Louise1.jpg": {
+      "ink": 0.060459136962890625,
+      "ring_radius": 0.8175,
+      "ring_width": 0.04304481297113846,
+      "gap_share": 0.5777777777777777,
+      "cluster_share": 0.011111111111111112,
+      "clusters": 2
+    },
+    "LouiseHasQuestion1.jpg": {
+      "ink": 0.09246444702148438,
+      "ring_radius": 0.5549999999999999,
+      "ring_width": 0.061434782588655236,
+      "gap_share": 0.5444444444444444,
+      "cluster_share": 0.08333333333333333,
+      "clusters": 4
+    },
+    "LouiseHasWeapon1.jpg": {
+      "ink": 0.09090042114257812,
+      "ring_radius": 0.5775,
+      "ring_width": 0.09915897143097298,
+      "gap_share": 0.5611111111111111,
+      "cluster_share": 0.011111111111111112,
+      "clusters": 2
+    },
+    "LouiseWritesHepto1.jpg": {
+      "ink": 0.111328125,
+      "ring_radius": 0.705,
+      "ring_width": 0.10726787870976054,
+      "gap_share": 0.48333333333333334,
+      "cluster_share": 0.0,
+      "clusters": 0
+    },
+    "MessageHereLouiseHasWeapon1.jpg": {
+      "ink": 0.10983657836914062,
+      "ring_radius": 0.5775,
+      "ring_width": 0.11883937797452487,
+      "gap_share": 0.45555555555555555,
+      "cluster_share": 0.011111111111111112,
+      "clusters": 2
+    },
+    "MustLearnIanLouise1.jpg": {
+      "ink": 0.12857437133789062,
+      "ring_radius": 0.6074999999999999,
+      "ring_width": 0.1367162144977038,
+      "gap_share": 0.49444444444444446,
+      "cluster_share": 0.0,
+      "clusters": 0
+    },
+    "OfferWeapon1.jpg": {
+      "ink": 0.0941009521484375,
+      "ring_radius": 0.5175,
+      "ring_width": 0.08193587317379547,
+      "gap_share": 0.48333333333333334,
+      "cluster_share": 0.05,
+      "clusters": 4
+    },
+    "OfferWeapon_1.jpg": {
+      "ink": 0.10195159912109375,
+      "ring_radius": 0.78,
+      "ring_width": 0.058844706695494464,
+      "gap_share": 0.5111111111111111,
+      "cluster_share": 0.06111111111111111,
+      "clusters": 3
+    },
+    "SendHeptaMessage1.jpg": {
+      "ink": 0.07121658325195312,
+      "ring_radius": 0.51,
+      "ring_width": 0.0925691520453493,
+      "gap_share": 0.6555555555555556,
+      "cluster_share": 0.03333333333333333,
+      "clusters": 2
+    },
+    "ShipGrounded_1.jpg": {
+      "ink": 0.10091400146484375,
+      "ring_radius": 0.69,
+      "ring_width": 0.10231425400181421,
+      "gap_share": 0.5111111111111111,
+      "cluster_share": 0.005555555555555556,
+      "clusters": 1
+    },
+    "Solve1.jpg": {
+      "ink": 0.06499481201171875,
+      "ring_radius": 0.8999999999999999,
+      "ring_width": 0.03375631269801858,
+      "gap_share": 0.7055555555555556,
+      "cluster_share": 0.0,
+      "clusters": 0
+    },
+    "SolveOnYouNow1.jpg": {
+      "ink": 0.10440444946289062,
+      "ring_radius": 0.51,
+      "ring_width": 0.1328538756206402,
+      "gap_share": 0.5611111111111111,
+      "cluster_share": 0.0,
+      "clusters": 0
+    },
+    "ThereIsNoLinearTime1.jpg": {
+      "ink": 0.17163848876953125,
+      "ring_radius": 0.735,
+      "ring_width": 0.14125017059073988,
+      "gap_share": 0.022222222222222223,
+      "cluster_share": 0.0,
+      "clusters": 0
+    },
+    "Time1.jpg": {
+      "ink": 0.15674209594726562,
+      "ring_radius": 0.6975,
+      "ring_width": 0.1328630919838466,
+      "gap_share": 0.022222222222222223,
+      "cluster_share": 0.0,
+      "clusters": 0
+    },
+    "UseMarkerWrite1.jpg": {
+      "ink": 0.059604644775390625,
+      "ring_radius": 0.5775,
+      "ring_width": 0.048822547002272954,
+      "gap_share": 0.55,
+      "cluster_share": 0.05555555555555555,
+      "clusters": 2
+    },
+    "Walk1.jpg": {
+      "ink": 0.0635833740234375,
+      "ring_radius": 0.5549999999999999,
+      "ring_width": 0.06458528425986833,
+      "gap_share": 0.5833333333333334,
+      "cluster_share": 0.03333333333333333,
+      "clusters": 3
+    },
+    "Weapon1.jpg": {
+      "ink": 0.07485198974609375,
+      "ring_radius": 0.40499999999999997,
+      "ring_width": 0.12682227792221207,
+      "gap_share": 0.5055555555555555,
+      "cluster_share": 0.005555555555555556,
+      "clusters": 1
+    },
+    "WeaponToolDuality1.jpg": {
+      "ink": 0.14033126831054688,
+      "ring_radius": 0.6224999999999999,
+      "ring_width": 0.156244006073866,
+      "gap_share": 0.3111111111111111,
+      "cluster_share": 0.0,
+      "clusters": 0
+    },
+    "WhereIsAbbott1.jpg": {
+      "ink": 0.11029815673828125,
+      "ring_radius": 0.42,
+      "ring_width": 0.15507781886962285,
+      "gap_share": 0.5388888888888889,
+      "cluster_share": 0.011111111111111112,
+      "clusters": 1
+    },
+    "YouHaveChooseLife1.jpg": {
+      "ink": 0.09669876098632812,
+      "ring_radius": 0.6525,
+      "ring_width": 0.07436270323949515,
+      "gap_share": 0.38333333333333336,
+      "cluster_share": 0.027777777777777776,
+      "clusters": 4
+    }
+  }
+}

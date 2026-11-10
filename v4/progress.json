@@ -1,0 +1,34 @@
+[
+ {
+  "label": "v4 final (morning)",
+  "time": "09/11 13:30",
+  "web_plain": 20.7,
+  "web_reread": null,
+  "tat_plain": 68.8,
+  "tat_reread": null
+ },
+ {
+  "label": "v4 + rereading",
+  "time": "09/11 16:00",
+  "web_plain": 20.7,
+  "web_reread": 66.8,
+  "tat_plain": 68.8,
+  "tat_reread": 96.5
+ },
+ {
+  "label": "new data + eyes",
+  "time": "09/11 20:00",
+  "web_plain": 41.8,
+  "web_reread": 80.5,
+  "tat_plain": 71.1,
+  "tat_reread": 98.4
+ },
+ {
+  "label": "locked exam (final)",
+  "time": "09/11 21:00",
+  "web_plain": 33.5,
+  "web_reread": 81.0,
+  "tat_plain": null,
+  "tat_reread": null
+ }
+]

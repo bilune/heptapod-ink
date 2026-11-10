@@ -1,0 +1,61 @@
+{
+ "split": "dev",
+ "n": 4,
+ "seed": 0,
+ "rounds": 1,
+ "sec_per_sentence": 0.849,
+ "mean_accepted_moves": 1.0,
+ "reverted": 0.25,
+ "plain": {
+  "exact": 0.75,
+  "exact_cased": 0.75,
+  "word_acc": 0.95,
+  "wer": 0.05
+ },
+ "search": {
+  "exact": 1.0,
+  "exact_cased": 1.0,
+  "word_acc": 1.0,
+  "wer": 0.0
+ },
+ "plain_pert": {
+  "exact": 0.75,
+  "exact_cased": 0.75,
+  "word_acc": 0.95,
+  "wer": 0.05
+ },
+ "search_pert": {
+  "exact": 1.0,
+  "exact_cased": 1.0,
+  "word_acc": 1.0,
+  "wer": 0.0
+ },
+ "shuffled": {
+  "exact": 0.0,
+  "exact_cased": 0.0,
+  "word_acc": 0.0,
+  "wer": 1.2
+ },
+ "examples": [
+  [
+   "Tom was pursued by mercenaries through the woods.",
+   "Tom was pursued by mercenary through the woods.",
+   "Tom was pursued by mercenaries through the woods."
+  ],
+  [
+   "Ziri is very disrespectful.",
+   "Ziri is very disrespectful.",
+   "Ziri is very disrespectful."
+  ],
+  [
+   "Tom never kisses me.",
+   "Tom never kisses me.",
+   "Tom never kisses me."
+  ],
+  [
+   "I was left speechless.",
+   "I was left speechless.",
+   "I was left speechless."
+  ]
+ ]
+}

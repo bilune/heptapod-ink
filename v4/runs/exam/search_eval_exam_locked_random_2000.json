@@ -1,0 +1,91 @@
+{
+ "split": "locked_random",
+ "n": 2000,
+ "seed": 0,
+ "rounds": 20,
+ "sec_per_sentence": 0.83,
+ "mean_accepted_moves": 17.29,
+ "reverted": 0.0545,
+ "plain": {
+  "exact": 0.041,
+  "exact_cased": 0.0055,
+  "word_acc": 0.3108,
+  "wer": 0.6778
+ },
+ "search": {
+  "exact": 0.368,
+  "exact_cased": 0.2065,
+  "word_acc": 0.613,
+  "wer": 0.3447
+ },
+ "plain_pert": {
+  "exact": 0.0395,
+  "exact_cased": 0.005,
+  "word_acc": 0.2969,
+  "wer": 0.6926
+ },
+ "search_pert": {
+  "exact": 0.298,
+  "exact_cased": 0.1715,
+  "word_acc": 0.5604,
+  "wer": 0.4002
+ },
+ "shuffled": {
+  "exact": 0.006,
+  "exact_cased": 0.003,
+  "word_acc": 0.0091,
+  "wer": 1.1726
+ },
+ "examples": [
+  [
+   "woolly marilla refuses square illusion art a mobile define",
+   "Halley Migressular illusion art a video description",
+   "Rowly Mirilla refuses black spacecraft a mobile form"
+  ],
+  [
+   "credible minerals though penises study go birth anything charles",
+   "Really rocks preserve peness study go viral without charities",
+   "Really rocks nonetheless penises study go solo little charles"
+  ],
+  [
+   "protesting raqqa leaves call",
+   "Moing raqqa leaves call",
+   "protesting raqqa leaves call"
+  ],
+  [
+   "drunker slippery younger bears planner reads give pride led reluctantly",
+   "Younger Snowmore Eds adjusts book's name to lead reluctantly",
+   "Younger slippery older bears index reads give college led reluctantly"
+  ],
+  [
+   "the keep illness racket perform tautology in le sometimes london",
+   "The rest of the horsehouse performs staged training in La La london",
+   "The keep illness horseshoe performed tautology in Leomore london"
+  ],
+  [
+   "dietary dream assisting telling",
+   "Surgical dream guiding telling",
+   "dietary dream assisting telling"
+  ],
+  [
+   "arrested questioning objection continue process copied outlive with",
+   "Police questioning adaptation continuous process document outlived by",
+   "Prison questioning consideration throughout process copied outlive with"
+  ],
+  [
+   "restricting landed overwhelming switzerland arborist demolish son motor sorrow they",
+   "Disposing a storm swivel arborist demourwheels, shock and",
+   "Dispointing landed onto all switzerland arboreumes its motor shock that"
+  ],
+  [
+   "basketball biscuits snack flat miserly amen shop support",
+   "Jersey biscuits drink biscuit sufferer amenity help",
+   "Ohio biscuits stop flat miserably anm friend"
+  ],
+  [
+   "rewarded lackey houseboat that sat",
+   "Especially poorey houseboat that sat",
+   "Boost lackey houseboat that sat"
+  ]
+ ]
+}

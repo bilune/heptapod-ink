@@ -1,0 +1,38 @@
+{
+ "n": 400,
+ "png_equals_memory": 1.0,
+ "exact_memory": 0.3875,
+ "exact_png": 0.3875,
+ "examples": [
+  [
+   "It wasn't easy for me to convince Tom to do that.",
+   "It wasn't easy for me to convince Tom to do that.",
+   "It wasn't easy for me to convince Tom to do that."
+  ],
+  [
+   "Tom put his hand over Mary's hand.",
+   "Tom put his hand over Mary's hand.",
+   "Tom put his hand over Mary's hand."
+  ],
+  [
+   "I was amused at the story.",
+   "I was amused at the story.",
+   "I was amused at the story."
+  ],
+  [
+   "Ziri and Rima learned a very important lesson early in their marriage.",
+   "Ziri and Rima learned a very important lesson very early in the morning.",
+   "Ziri and Rima learned a very important lesson very early in the morning."
+  ],
+  [
+   "The day went by like a dream.",
+   "The day went by such a dream.",
+   "The day went by such a dream."
+  ],
+  [
+   "He didn't have dinner last night.",
+   "He didn't have dinner last night.",
+   "He didn't have dinner last night."
+  ]
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "n_dev": 500,
+ "beam": 32,
+ "greedy": 0.726,
+ "beam_top1": 0.728,
+ "gold_in_candidates": 0.928,
+ "verified": 0.92,
+ "any_match": 0.932,
+ "multiple_matches": 0.05,
+ "false_match": 0.012
+}

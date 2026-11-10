@@ -1,0 +1,515 @@
+{
+ "A": {
+  "who": {
+   "zone": [
+    7,
+    9,
+    29,
+    35
+   ],
+   "effect_with_zone": 0.995,
+   "effect_with_random_slots": 0.0,
+   "effect_no_transplant": 0.0,
+   "base_words_kept_zone": 0.867,
+   "base_words_kept_random": 0.816,
+   "examples": [
+    [
+     "Tom can probably convince Mary to stop doing that.",
+     "I hope Tom and Mary don't do that.",
+     "I can probably convince Mary to stop doing that."
+    ],
+    [
+     "We are afraid of the dark.",
+     "He’s going to be building gymnasiums in Brazil.",
+     "He is afraid of the dark."
+    ],
+    [
+     "Tom hardly ever goes out at night.",
+     "I don't think that Tom knows how sick Mary is.",
+     "I hardly ever goes out at night."
+    ],
+    [
+     "She thinks she's found the answer.",
+     "I don't think that Tom will mind.",
+     "I thinks she's found the answer."
+    ],
+    [
+     "Tom is really freaked out.",
+     "I love cats more than people.",
+     "I am really freaked out."
+    ],
+    [
+     "Tom and Mary said they'd try doing that again tomorrow.",
+     "I want to hide under a rock.",
+     "I and Mary said they'll try doing that again tomorrow."
+    ]
+   ]
+  },
+  "verb": {
+   "zone": [
+    2,
+    8,
+    13,
+    17,
+    25,
+    26
+   ],
+   "effect_with_zone": 0.5,
+   "effect_with_random_slots": 0.02,
+   "effect_no_transplant": 0.0,
+   "base_words_kept_zone": 0.557,
+   "base_words_kept_random": 0.72,
+   "examples": [
+    [
+     "Some become engineering managers or move into other managerial positions.",
+     "He can't fix everything by himself.",
+     "Some can't fixes or move into other management positions."
+    ],
+    [
+     "Twenty years later, he narrowly defeated Democratic Gov.",
+     "That habit is acquired, not innate.",
+     "Twenty years are, largely narrowly defeated Democratic Gov."
+    ],
+    [
+     "Yesterday Tom went to the river to catch some fish.",
+     "Scientists don't know what dark matter is made of.",
+     "Tweets not to the river to catch some fish."
+    ],
+    [
+     "Figurative phrases confuse people who think literally.",
+     "Take a free, no-obligation trial.",
+     "Pin a free fool who thinks magic."
+    ],
+    [
+     "How the SCI will decrease our ambition (pajamas).",
+     "Mary was not one of the most popular girls.",
+     "How was notia slightly reduced its ambition/pajam?"
+    ],
+    [
+     "It's going to turn over.",
+     "Tom didn't seem to be as greedy as Mary.",
+     "It didn't seem to turn over."
+    ]
+   ]
+  },
+  "end": {
+   "zone": [
+    22,
+    32,
+    33
+   ],
+   "effect_with_zone": 0.875,
+   "effect_with_random_slots": 0.0,
+   "effect_no_transplant": 0.0,
+   "base_words_kept_zone": 0.843,
+   "base_words_kept_random": 0.82,
+   "examples": [
+    [
+     "You are splitting hairs.",
+     "What is the customer upset about?",
+     "You are dealing hair?"
+    ],
+    [
+     "The jerseys are changing.",
+     "What are you getting angry for?",
+     "The jerseys are changing?"
+    ],
+    [
+     "Sami demanded a lawyer.",
+     "At what rate did the illness spread?",
+     "Sami demanded a lawyer?"
+    ],
+    [
+     "You should've informed us immediately.",
+     "Do you see anything else?",
+     "You should've informed us immediately?"
+    ],
+    [
+     "Make a 16 MB ramdisk full of zeroes.",
+     "What is your view on the death penalty?",
+     "Make a 16 MB rimd thin of mass?"
+    ],
+    [
+     "We need to look back at the history of Islam.",
+     "Do you love fall?",
+     "We need to look back at the history of India?"
+    ]
+   ]
+  }
+ },
+ "B": {
+  "7": {
+   "purity": 0.913,
+   "majority_baseline": 0.752,
+   "symbols_used": 81,
+   "top_symbols": [
+    [
+     27,
+     {
+      "i": 491,
+      "other": 193
+     }
+    ],
+    [
+     40,
+     {
+      "other": 487
+     }
+    ],
+    [
+     22,
+     {
+      "tom": 361,
+      "other": 11
+     }
+    ],
+    [
+     62,
+     {
+      "he": 170,
+      "other": 40
+     }
+    ],
+    [
+     8,
+     {
+      "other": 110,
+      "you": 97
+     }
+    ],
+    [
+     76,
+     {
+      "she": 100,
+      "they": 79,
+      "other": 25
+     }
+    ],
+    [
+     36,
+     {
+      "other": 188
+     }
+    ],
+    [
+     4,
+     {
+      "other": 164
+     }
+    ]
+   ]
+  },
+  "9": {
+   "purity": 0.909,
+   "majority_baseline": 0.752,
+   "symbols_used": 81,
+   "top_symbols": [
+    [
+     70,
+     {
+      "i": 491,
+      "other": 184
+     }
+    ],
+    [
+     18,
+     {
+      "other": 551,
+      "you": 97
+     }
+    ],
+    [
+     13,
+     {
+      "tom": 361,
+      "other": 10
+     }
+    ],
+    [
+     1,
+     {
+      "he": 170,
+      "she": 100,
+      "other": 34
+     }
+    ],
+    [
+     72,
+     {
+      "other": 267
+     }
+    ],
+    [
+     29,
+     {
+      "other": 200
+     }
+    ],
+    [
+     68,
+     {
+      "other": 171
+     }
+    ],
+    [
+     39,
+     {
+      "other": 162
+     }
+    ]
+   ]
+  },
+  "29": {
+   "purity": 0.909,
+   "majority_baseline": 0.752,
+   "symbols_used": 81,
+   "top_symbols": [
+    [
+     66,
+     {
+      "i": 491,
+      "other": 189
+     }
+    ],
+    [
+     43,
+     {
+      "other": 442
+     }
+    ],
+    [
+     0,
+     {
+      "tom": 361,
+      "other": 17
+     }
+    ],
+    [
+     28,
+     {
+      "she": 100,
+      "you": 97,
+      "they": 79
+     }
+    ],
+    [
+     77,
+     {
+      "other": 238
+     }
+    ],
+    [
+     50,
+     {
+      "he": 170,
+      "other": 43
+     }
+    ],
+    [
+     20,
+     {
+      "other": 208
+     }
+    ],
+    [
+     18,
+     {
+      "other": 206
+     }
+    ]
+   ]
+  },
+  "35": {
+   "purity": 0.915,
+   "majority_baseline": 0.752,
+   "symbols_used": 81,
+   "top_symbols": [
+    [
+     52,
+     {
+      "i": 491,
+      "other": 190
+     }
+    ],
+    [
+     11,
+     {
+      "other": 387
+     }
+    ],
+    [
+     62,
+     {
+      "tom": 361,
+      "other": 16
+     }
+    ],
+    [
+     6,
+     {
+      "other": 164,
+      "you": 97,
+      "they": 79
+     }
+    ],
+    [
+     58,
+     {
+      "he": 170,
+      "other": 45
+     }
+    ],
+    [
+     50,
+     {
+      "other": 192
+     }
+    ],
+    [
+     42,
+     {
+      "other": 181
+     }
+    ],
+    [
+     53,
+     {
+      "other": 163
+     }
+    ]
+   ]
+  }
+ },
+ "C": {
+  "v4_morning": {
+   "question": {
+    "best_slots": [
+     33,
+     28,
+     9,
+     29
+    ],
+    "best_share": 0.862
+   },
+   "subject_I/we": {
+    "best_slots": [
+     35,
+     9,
+     29,
+     7
+    ],
+    "best_share": 0.717
+   },
+   "subject_he/she/it/they": {
+    "best_slots": [
+     7,
+     9,
+     35,
+     29
+    ],
+    "best_share": 0.792
+   },
+   "negation": {
+    "best_slots": [
+     17,
+     2,
+     8,
+     25
+    ],
+    "best_share": 0.296
+   },
+   "first_word": {
+    "best_slots": [
+     35,
+     29,
+     7,
+     9
+    ],
+    "best_share": 0.748
+   },
+   "last_char": {
+    "best_slots": [
+     33,
+     28,
+     9,
+     29
+    ],
+    "best_share": 0.762
+   },
+   "past": {
+    "best_slots": [
+     26,
+     13,
+     8,
+     17
+    ],
+    "best_share": 0.15
+   }
+  },
+  "s2_now": {
+   "question": {
+    "best_slots": [
+     33,
+     9,
+     7,
+     29
+    ],
+    "best_share": 0.887
+   },
+   "subject_I/we": {
+    "best_slots": [
+     9,
+     29,
+     35,
+     7
+    ],
+    "best_share": 0.73
+   },
+   "subject_he/she/it/they": {
+    "best_slots": [
+     7,
+     9,
+     29,
+     35
+    ],
+    "best_share": 0.805
+   },
+   "negation": {
+    "best_slots": [
+     17,
+     13,
+     8,
+     2
+    ],
+    "best_share": 0.31
+   },
+   "first_word": {
+    "best_slots": [
+     35,
+     29,
+     7,
+     9
+    ],
+    "best_share": 0.741
+   },
+   "last_char": {
+    "best_slots": [
+     22,
+     32,
+     33,
+     9
+    ],
+    "best_share": 0.612
+   },
+   "past": {
+    "best_slots": [
+     26,
+     17,
+     13,
+     8
+    ],
+    "best_share": 0.162
+   }
+  }
+ }
+}

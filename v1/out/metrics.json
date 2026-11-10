@@ -1,0 +1,141 @@
+{
+  "setup": {
+    "steps": 3000,
+    "batch": 128,
+    "ink_cost": 2.0,
+    "decisive": 1.0,
+    "train_meanings": 1080,
+    "held_out_meanings": 216,
+    "chance_sentence_exact": 0.000772
+  },
+  "train_meanings_full_rotation": {
+    "sentence_exact": 0.9963,
+    "subject": 0.9993,
+    "verb": 0.9991,
+    "object": 0.9988,
+    "tense": 1.0,
+    "polarity": 0.9991
+  },
+  "held_out_triples_full_rotation": {
+    "sentence_exact": 0.9896,
+    "subject": 0.9977,
+    "verb": 0.9954,
+    "object": 0.9965,
+    "tense": 1.0,
+    "polarity": 1.0
+  },
+  "held_out_no_rotation": {
+    "sentence_exact": 0.9907,
+    "subject": 0.9977,
+    "verb": 0.9977,
+    "object": 0.9965,
+    "tense": 1.0,
+    "polarity": 0.9988
+  },
+  "topographic_similarity": {
+    "real": 0.4035,
+    "shuffled_baseline": -0.0058
+  },
+  "history": [
+    {
+      "step": 1,
+      "loss": 7.2389,
+      "ink": 0.2055,
+      "rotation_deg": 0
+    },
+    {
+      "step": 250,
+      "loss": 0.2166,
+      "ink": 0.0617,
+      "rotation_deg": 30
+    },
+    {
+      "step": 500,
+      "loss": 0.1567,
+      "ink": 0.0623,
+      "rotation_deg": 60
+    },
+    {
+      "step": 750,
+      "loss": 0.1785,
+      "ink": 0.0681,
+      "rotation_deg": 90
+    },
+    {
+      "step": 1000,
+      "loss": 0.1669,
+      "ink": 0.062,
+      "rotation_deg": 120
+    },
+    {
+      "step": 1250,
+      "loss": 0.0767,
+      "ink": 0.0581,
+      "rotation_deg": 150
+    },
+    {
+      "step": 1500,
+      "loss": 0.0671,
+      "ink": 0.0518,
+      "rotation_deg": 180
+    },
+    {
+      "step": 1750,
+      "loss": 0.0309,
+      "ink": 0.0481,
+      "rotation_deg": 180
+    },
+    {
+      "step": 2000,
+      "loss": 0.0363,
+      "ink": 0.0427,
+      "rotation_deg": 180
+    },
+    {
+      "step": 2250,
+      "loss": 0.0128,
+      "ink": 0.0382,
+      "rotation_deg": 180
+    },
+    {
+      "step": 2500,
+      "loss": 0.0269,
+      "ink": 0.0357,
+      "rotation_deg": 180
+    },
+    {
+      "step": 2750,
+      "loss": 0.0161,
+      "ink": 0.0346,
+      "rotation_deg": 180
+    },
+    {
+      "step": 3000,
+      "loss": 0.0044,
+      "ink": 0.0332,
+      "rotation_deg": 180
+    }
+  ],
+  "word_footprint": {
+    "subject": {
+      "ring_share": 0.528,
+      "ink_changed": 0.0294
+    },
+    "verb": {
+      "ring_share": 0.444,
+      "ink_changed": 0.0294
+    },
+    "object": {
+      "ring_share": 0.486,
+      "ink_changed": 0.0283
+    },
+    "tense": {
+      "ring_share": 0.542,
+      "ink_changed": 0.0381
+    },
+    "polarity": {
+      "ring_share": 0.389,
+      "ink_changed": 0.0222
+    }
+  }
+}

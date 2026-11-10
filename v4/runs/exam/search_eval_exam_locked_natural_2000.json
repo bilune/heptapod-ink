@@ -1,0 +1,91 @@
+{
+ "split": "locked_natural",
+ "n": 2000,
+ "seed": 0,
+ "rounds": 20,
+ "sec_per_sentence": 0.743,
+ "mean_accepted_moves": 13.16,
+ "reverted": 0.0535,
+ "plain": {
+  "exact": 0.3345,
+  "exact_cased": 0.3255,
+  "word_acc": 0.7383,
+  "wer": 0.2306
+ },
+ "search": {
+  "exact": 0.81,
+  "exact_cased": 0.805,
+  "word_acc": 0.9294,
+  "wer": 0.0595
+ },
+ "plain_pert": {
+  "exact": 0.3205,
+  "exact_cased": 0.3135,
+  "word_acc": 0.7245,
+  "wer": 0.2415
+ },
+ "search_pert": {
+  "exact": 0.7555,
+  "exact_cased": 0.7515,
+  "word_acc": 0.9017,
+  "wer": 0.0804
+ },
+ "shuffled": {
+  "exact": 0.0125,
+  "exact_cased": 0.0125,
+  "word_acc": 0.0235,
+  "wer": 1.1659
+ },
+ "examples": [
+  [
+   "The room was growing dark.",
+   "The room was growing dark.",
+   "The room was growing dark."
+  ],
+  [
+   "We held hearings, called witnesses, and subpoenaed documents.",
+   "We held hearings, called witnesses, and subpoenaed edition.",
+   "We held hearings, called witnesses, and subpoed documents."
+  ],
+  [
+   "The ending of the joke is obviously crucial.",
+   "The ending of the joke is obviously crucial.",
+   "The ending of the joke is obviously crucial."
+  ],
+  [
+   "In 1982, GM finally closed the plant.",
+   "In 1982, GM never closed the factory.",
+   "In 1982, GM finally closed the plant."
+  ],
+  [
+   "You do not understand with whom you are dealing. \"",
+   "You do not understand with whom you are dealing.\"",
+   "You do not understand with whom you are dealing. \""
+  ],
+  [
+   "The mites missed it.",
+   "The cues missed it.",
+   "The mites missed it."
+  ],
+  [
+   "But I didn't spend the night, and I don't deserve this.",
+   "But I could spend the night, and I don't deserve this.",
+   "But I didn't spend the night, and I don't deserve this."
+  ],
+  [
+   "He loved New York.",
+   "He loved New York.",
+   "He loved New York."
+  ],
+  [
+   "Potentially they can liberate the desktop, and sometimes do.",
+   "Potentially they can liberate the desktop, and sometimes do.",
+   "Potentially they can liberate the desktop, and sometimes do."
+  ],
+  [
+   "And what's that?",
+   "And what's that?",
+   "And what's that?"
+  ]
+ ]
+}

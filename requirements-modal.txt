@@ -1,0 +1,4 @@
+# Optional: only needed to launch the GPU jobs on Modal (v3/modal_app.py, v4/run_*.py).
+# Not installed in the development venv, so it is left unpinned.
+# Install: .venv/bin/pip install -r requirements-modal.txt && modal setup
+modal

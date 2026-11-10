@@ -1,0 +1,91 @@
+{
+ "split": "dev_random",
+ "n": 32,
+ "seed": 0,
+ "rounds": 24,
+ "sec_per_sentence": 0.982,
+ "mean_accepted_moves": 3.34,
+ "reverted": 0.0625,
+ "plain": {
+  "exact": 0.0938,
+  "exact_cased": 0.0938,
+  "word_acc": 0.4419,
+  "wer": 0.5395
+ },
+ "search": {
+  "exact": 0.2812,
+  "exact_cased": 0.2812,
+  "word_acc": 0.5581,
+  "wer": 0.4326
+ },
+ "plain_pert": {
+  "exact": 0.0938,
+  "exact_cased": 0.0938,
+  "word_acc": 0.4326,
+  "wer": 0.5581
+ },
+ "search_pert": {
+  "exact": 0.1875,
+  "exact_cased": 0.1875,
+  "word_acc": 0.5581,
+  "wer": 0.4419
+ },
+ "shuffled": {
+  "exact": 0.0312,
+  "exact_cased": 0.0312,
+  "word_acc": 0.0605,
+  "wer": 1.093
+ },
+ "examples": [
+  [
+   "learners berber ukulele economically fought overreacting",
+   "learners berber ukraine jobs fought overreacting",
+   "learners berber ukraine cheap fought overreacting"
+  ],
+  [
+   "everything slender greenhouse",
+   "everyone slender greenhouse",
+   "everything slender greenhouse"
+  ],
+  [
+   "not locusts would",
+   "no locusts would",
+   "not locusts would"
+  ],
+  [
+   "poster came yourselves gotten",
+   "poster came yourselves gotten",
+   "poster came yourselves gotten"
+  ],
+  [
+   "toddler strangely call disobeyed qualify feeling",
+   "baby strangely call disobeyed qualified feeling",
+   "toddler strangely call disobeyed qualify feeling"
+  ],
+  [
+   "bones exaggerates city members dawkins going bs coming",
+   "bones exaggerate walls members demonswaging gimmicks coming",
+   "bones exaggerate walls members demonswaging gimmicks coming"
+  ],
+  [
+   "real aesthetic way divorce unusual cooked slim hatred cock",
+   "real ethical how divorce usually cooked slim murder chin",
+   "real ethical how divorce unpredictable cooked slim murder thighs"
+  ],
+  [
+   "ethanol walk manufacturing cunt bubbly dermatologist",
+   "cigarette walk manufacturing cunny bubbly pediatrician",
+   "cigarette walk manufacturing cunny bubbly pediatrician"
+  ],
+  [
+   "gondolas satisfying sleeps voice",
+   "yanniss satisfied sleeps voice",
+   "gondolas satisfying sleeps voice"
+  ],
+  [
+   "i snockered favorite ripening",
+   "i snorted wanted ripening",
+   "i snorted wanted ripening"
+  ]
+ ]
+}

@@ -1,0 +1,194 @@
+{
+ "consistency": {
+  "past": {
+   "slots_changed_mean": 2.98,
+   "within_jaccard": 0.179,
+   "between_jaccard": 0.006,
+   "slots_changing_in_>=60%_of_pairs": [
+    26
+   ]
+  },
+  "negation": {
+   "slots_changed_mean": 13.58,
+   "within_jaccard": 0.277,
+   "between_jaccard": 0.009,
+   "slots_changing_in_>=60%_of_pairs": [
+    4,
+    8,
+    10,
+    13,
+    17,
+    18,
+    19,
+    25,
+    26,
+    28,
+    30,
+    33
+   ]
+  },
+  "plural": {
+   "slots_changed_mean": 3.4,
+   "within_jaccard": 0.274,
+   "between_jaccard": 0.006,
+   "slots_changing_in_>=60%_of_pairs": [
+    26
+   ]
+  },
+  "question": {
+   "slots_changed_mean": 11.13,
+   "within_jaccard": 0.618,
+   "between_jaccard": 0.004,
+   "slots_changing_in_>=60%_of_pairs": [
+    7,
+    8,
+    9,
+    13,
+    22,
+    26,
+    29,
+    32,
+    33,
+    35
+   ]
+  },
+  "person": {
+   "slots_changed_mean": 9.7,
+   "within_jaccard": 0.378,
+   "between_jaccard": 0.013,
+   "slots_changing_in_>=60%_of_pairs": [
+    7,
+    9,
+    29,
+    35
+   ]
+  }
+ },
+ "transplant": {
+  "past": {
+   "edit_size_slots": 2,
+   "no_edit": {
+    "exact_transformed": 0.033,
+    "has_marker": 0.033,
+    "example": "I clean the picture."
+   },
+   "consensus_edit": {
+    "exact_transformed": 0.6,
+    "has_marker": 0.767,
+    "example": "I knew the picture."
+   },
+   "random_edit_same_size": {
+    "exact_transformed": 0.033,
+    "has_marker": 0.033,
+    "example": "I cleanse the picture."
+   },
+   "other_operation_edit": {
+    "exact_transformed": 0.0,
+    "has_marker": 0.0,
+    "example": "I don't get the picture."
+   },
+   "example_base": "I clean the picture.",
+   "example_target": "I cleaned the picture."
+  },
+  "negation": {
+   "edit_size_slots": 15,
+   "no_edit": {
+    "exact_transformed": 0.0,
+    "has_marker": 0.0,
+    "example": "They clean the window."
+   },
+   "consensus_edit": {
+    "exact_transformed": 0.0,
+    "has_marker": 1.0,
+    "example": "They don't get the glass."
+   },
+   "random_edit_same_size": {
+    "exact_transformed": 0.0,
+    "has_marker": 0.033,
+    "example": "They know the vertical is."
+   },
+   "other_operation_edit": {
+    "exact_transformed": 0.0,
+    "has_marker": 0.0,
+    "example": "They clear the window."
+   },
+   "example_base": "They clean the window.",
+   "example_target": "They don't clean the window."
+  },
+  "plural": {
+   "edit_size_slots": 1,
+   "no_edit": {
+    "exact_transformed": 0.0,
+    "has_marker": 0.0,
+    "example": "The teacher is outside."
+   },
+   "consensus_edit": {
+    "exact_transformed": 0.967,
+    "has_marker": 1.0,
+    "example": "The teachers are outside."
+   },
+   "random_edit_same_size": {
+    "exact_transformed": 0.0,
+    "has_marker": 0.0,
+    "example": "The teacher is outside."
+   },
+   "other_operation_edit": {
+    "exact_transformed": 0.0,
+    "has_marker": 0.0,
+    "example": "Can you be outside?"
+   },
+   "example_base": "The teacher is outside.",
+   "example_target": "The teachers are outside."
+  },
+  "question": {
+   "edit_size_slots": 10,
+   "no_edit": {
+    "exact_transformed": 0.0,
+    "has_marker": 0.0,
+    "example": "They can watch the box."
+   },
+   "consensus_edit": {
+    "exact_transformed": 0.3,
+    "has_marker": 1.0,
+    "example": "Can you watch the box?"
+   },
+   "random_edit_same_size": {
+    "exact_transformed": 0.0,
+    "has_marker": 0.0,
+    "example": "They can pick the store."
+   },
+   "other_operation_edit": {
+    "exact_transformed": 0.0,
+    "has_marker": 0.0,
+    "example": "She can watch the box."
+   },
+   "example_base": "They can watch the box.",
+   "example_target": "Can they watch the box?"
+  },
+  "person": {
+   "edit_size_slots": 8,
+   "no_edit": {
+    "exact_transformed": 0.0,
+    "has_marker": 0.0,
+    "example": "I find the apple."
+   },
+   "consensus_edit": {
+    "exact_transformed": 0.5,
+    "has_marker": 1.0,
+    "example": "She finds the apple."
+   },
+   "random_edit_same_size": {
+    "exact_transformed": 0.0,
+    "has_marker": 0.0,
+    "example": "I found the apple."
+   },
+   "other_operation_edit": {
+    "exact_transformed": 0.0,
+    "has_marker": 0.0,
+    "example": "I found the apple."
+   },
+   "example_base": "I find the apple.",
+   "example_target": "She finds the apple."
+  }
+ }
+}

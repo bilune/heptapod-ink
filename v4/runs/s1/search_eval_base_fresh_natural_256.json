@@ -1,0 +1,91 @@
+{
+ "split": "fresh_natural",
+ "n": 256,
+ "seed": 0,
+ "rounds": 20,
+ "sec_per_sentence": 1.118,
+ "mean_accepted_moves": 16.0,
+ "reverted": 0.1055,
+ "plain": {
+  "exact": 0.207,
+  "exact_cased": 0.1641,
+  "word_acc": 0.6169,
+  "wer": 0.3681
+ },
+ "search": {
+  "exact": 0.668,
+  "exact_cased": 0.6406,
+  "word_acc": 0.8473,
+  "wer": 0.1444
+ },
+ "plain_pert": {
+  "exact": 0.2031,
+  "exact_cased": 0.1484,
+  "word_acc": 0.6069,
+  "wer": 0.3809
+ },
+ "search_pert": {
+  "exact": 0.6172,
+  "exact_cased": 0.5938,
+  "word_acc": 0.8068,
+  "wer": 0.1799
+ },
+ "shuffled": {
+  "exact": 0.0117,
+  "exact_cased": 0.0078,
+  "word_acc": 0.0194,
+  "wer": 1.196
+ },
+ "examples": [
+  [
+   "Per the memo, ENA's storage account will be REDUCED by 420,588 mmbtu!!!!!!",
+   "per the lettered ethans container date will ripened jargon mr mrs mrs.",
+   "Per the letter, the Chinese container's date, will be kurdic, that i eartah."
+  ],
+  [
+   "i am out of town.",
+   "i am out of town.",
+   "i am out of town."
+  ],
+  [
+   "Ideally, we would like a fast turnaround.",
+   "Rather, we would like a fast progress.",
+   "Ideally, we would like a fast turnaround."
+  ],
+  [
+   "If you have any questions, please contact us at noc@paulhastings.com.",
+   "If you have any questions please contact us, enayapologise.",
+   "If you have any questions, please contact us at nocturnal polls."
+  ],
+  [
+   "Would 100% recomend to others for a great service.",
+   "Would true re-use to others for a great service.",
+   "Would fifty recomend to others for a great service."
+  ],
+  [
+   "GREAT Store GREAT Service!",
+   "Super store great service!",
+   "Super store great service!"
+  ],
+  [
+   "and the people are sweet :)",
+   "and the people are sweet he",
+   "and the people are sweet he"
+  ],
+  [
+   "The Dow topped out in February of 1966 at 995.",
+   "The factory topped out the winter of mechanical at school.",
+   "The Renault topped out in February of 1966 at 995."
+  ],
+  [
+   "I have spoken with Mark Lay and he is interested.",
+   "I have spoken with Layla and he is interested.",
+   "I have spoken with Mark Lay and he is interested."
+  ],
+  [
+   "No need to go to a grocer again.",
+   "Nobody needs to go to a grouch again.",
+   "No need to go to a grocer again."
+  ]
+ ]
+}
